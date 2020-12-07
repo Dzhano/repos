@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\djano\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\djano\\.nuget\\packages"
-    ]
-  }
-}
