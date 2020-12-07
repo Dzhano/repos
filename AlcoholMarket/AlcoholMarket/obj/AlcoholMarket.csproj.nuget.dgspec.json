@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\S\\AlcoholMarket\\AlcoholMarket\\AlcoholMarket.csproj": {}
+    "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\V\\source\\AlcoholMarket\\AlcoholMarket\\AlcoholMarket.csproj": {}
   },
   "projects": {
-    "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\S\\AlcoholMarket\\AlcoholMarket\\AlcoholMarket.csproj": {
+    "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\V\\source\\AlcoholMarket\\AlcoholMarket\\AlcoholMarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\S\\AlcoholMarket\\AlcoholMarket\\AlcoholMarket.csproj",
+        "projectUniqueName": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\V\\source\\AlcoholMarket\\AlcoholMarket\\AlcoholMarket.csproj",
         "projectName": "AlcoholMarket",
-        "projectPath": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\S\\AlcoholMarket\\AlcoholMarket\\AlcoholMarket.csproj",
+        "projectPath": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\V\\source\\AlcoholMarket\\AlcoholMarket\\AlcoholMarket.csproj",
         "packagesPath": "C:\\Users\\djano\\.nuget\\packages\\",
-        "outputPath": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\S\\AlcoholMarket\\AlcoholMarket\\obj\\",
+        "outputPath": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\V\\source\\AlcoholMarket\\AlcoholMarket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\djano\\AppData\\Roaming\\NuGet\\NuGet.Config",

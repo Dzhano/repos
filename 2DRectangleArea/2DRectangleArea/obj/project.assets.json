@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Джано\\SoftUni\\source\\repos\\2DRectangleArea\\2DRectangleArea\\2DRectangleArea.csproj",
+      "projectUniqueName": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\V\\source\\2DRectangleArea\\2DRectangleArea\\2DRectangleArea.csproj",
       "projectName": "2DRectangleArea",
-      "projectPath": "D:\\Джано\\SoftUni\\source\\repos\\2DRectangleArea\\2DRectangleArea\\2DRectangleArea.csproj",
+      "projectPath": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\V\\source\\2DRectangleArea\\2DRectangleArea\\2DRectangleArea.csproj",
       "packagesPath": "C:\\Users\\djano\\.nuget\\packages\\",
-      "outputPath": "D:\\Джано\\SoftUni\\source\\repos\\2DRectangleArea\\2DRectangleArea\\obj\\",
+      "outputPath": "D:\\Джано\\SoftUni\\C#\\source\\Repositories\\V\\source\\2DRectangleArea\\2DRectangleArea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\djano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

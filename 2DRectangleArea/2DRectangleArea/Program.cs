@@ -6,13 +6,13 @@ namespace _2DRectangleArea
     {
         static void Main(string[] args)
         {
-            double x1 = double.Parse(Console.ReadLine());
-            double y1 = double.Parse(Console.ReadLine());
-            double x2 = double.Parse(Console.ReadLine());
-            double y2 = double.Parse(Console.ReadLine());
+            double x12 = double.Parse(Console.ReadLine());
+            double y12 = double.Parse(Console.ReadLine());
+            double x21 = double.Parse(Console.ReadLine());
+            double y21 = double.Parse(Console.ReadLine());
 
-            double length = Math.Abs(x1 - x2);
-            double width = Math.Abs(y1 - y2);
+            double length = Math.Abs(x12 - x21);
+            double width = Math.Abs(y12 - y21);
 
             double area = length * width;
             double perimeter = 2 * (length + width);

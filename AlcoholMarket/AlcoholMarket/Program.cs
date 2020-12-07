@@ -19,7 +19,7 @@ namespace AlcoholMarket
             double priceRaki = amountRaki * rakiForLiter;
             double priceWine = amountWine * wineForLiter;
             double priceBeer = amountBeer * beerForLiter;
-            double priceWhiskey = amountWhiskey * whiskeyForLiter;
+            double priceWhiskey = amountWhiskey * whiskeiyfkffliyForLiter;
             double completePrice = priceRaki + priceWine + priceBeer + priceWhiskey;
 
             Console.WriteLine($"{completePrice:F2}");

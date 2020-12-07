@@ -11,3 +11,16 @@ D:\Джано\SoftUni\source\repos\AlcoholMarket\AlcoholMarket\bin\Debug\netcore
 D:\Джано\SoftUni\source\repos\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.dll
 D:\Джано\SoftUni\source\repos\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.pdb
 D:\Джано\SoftUni\source\repos\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.exe
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.deps.json
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.dll
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\bin\Debug\netcoreapp3.1\AlcoholMarket.pdb
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.dll
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.pdb
+D:\Джано\SoftUni\C#\source\Repositories\V\source\AlcoholMarket\AlcoholMarket\obj\Debug\netcoreapp3.1\AlcoholMarket.genruntimeconfig.cache
