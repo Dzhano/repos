@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\obj\Debug\netcoreapp3.1\SushiTime.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\obj\Debug\netcoreapp3.1\SushiTime.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\obj\Debug\netcoreapp3.1\SushiTime.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\obj\Debug\netcoreapp3.1\SushiTime.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\bin\Debug\netcoreapp3.1\SushiTime.exe
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\bin\Debug\netcoreapp3.1\SushiTime.deps.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\bin\Debug\netcoreapp3.1\SushiTime.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\bin\Debug\netcoreapp3.1\SushiTime.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\bin\Debug\netcoreapp3.1\SushiTime.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\bin\Debug\netcoreapp3.1\SushiTime.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\obj\Debug\netcoreapp3.1\SushiTime.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\obj\Debug\netcoreapp3.1\SushiTime.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SushiTime\obj\Debug\netcoreapp3.1\SushiTime.genruntimeconfig.cache

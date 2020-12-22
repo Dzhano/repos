@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.exe
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.deps.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\bin\Debug\netcoreapp3.1\CompanyRoster.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\CompanyRoster\obj\Debug\netcoreapp3.1\CompanyRoster.genruntimeconfig.cache

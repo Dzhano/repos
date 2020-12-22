@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\bin\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\EnglishNameOfTheLastDigit\obj\Debug\netcoreapp3.1\EnglishNameOfTheLastDigit.genruntimeconfig.cache

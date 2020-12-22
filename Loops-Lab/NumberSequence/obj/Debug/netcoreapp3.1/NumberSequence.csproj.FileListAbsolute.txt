@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache

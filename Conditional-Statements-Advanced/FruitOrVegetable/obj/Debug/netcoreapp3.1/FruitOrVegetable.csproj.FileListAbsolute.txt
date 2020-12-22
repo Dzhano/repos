@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\bin\Debug\netcoreapp3.1\FruitOrVegetable.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitOrVegetable\obj\Debug\netcoreapp3.1\FruitOrVegetable.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\bin\Debug\netcoreapp3.1\Courses.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Courses\obj\Debug\netcoreapp3.1\Courses.csprojAssemblyReference.cache

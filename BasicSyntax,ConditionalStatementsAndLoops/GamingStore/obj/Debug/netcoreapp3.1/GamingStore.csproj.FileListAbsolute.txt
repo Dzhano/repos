@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.genruntimeconfig.cache

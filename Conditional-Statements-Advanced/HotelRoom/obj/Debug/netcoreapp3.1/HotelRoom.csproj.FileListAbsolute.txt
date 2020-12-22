@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\bin\Debug\netcoreapp3.1\HotelRoom.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\HotelRoom\obj\Debug\netcoreapp3.1\HotelRoom.genruntimeconfig.cache

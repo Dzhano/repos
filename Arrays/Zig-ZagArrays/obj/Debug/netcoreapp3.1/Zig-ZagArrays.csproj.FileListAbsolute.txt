@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\bin\Debug\netcoreapp3.1\Zig-ZagArrays.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\Zig-ZagArrays\obj\Debug\netcoreapp3.1\Zig-ZagArrays.genruntimeconfig.cache

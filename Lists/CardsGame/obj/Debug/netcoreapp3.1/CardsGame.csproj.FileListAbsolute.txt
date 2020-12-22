@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\bin\Debug\netcoreapp3.1\CardsGame.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\CardsGame\obj\Debug\netcoreapp3.1\CardsGame.genruntimeconfig.cache

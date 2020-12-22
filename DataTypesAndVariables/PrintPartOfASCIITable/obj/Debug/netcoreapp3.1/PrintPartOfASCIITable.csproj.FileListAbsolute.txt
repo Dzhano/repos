@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\PrintPartOfASCIITable.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\PrintPartOfASCIITable.genruntimeconfig.cache

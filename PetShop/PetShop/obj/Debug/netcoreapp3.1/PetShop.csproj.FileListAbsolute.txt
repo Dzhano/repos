@@ -1,0 +1,13 @@
+C:\Users\djano\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.csprojAssemblyReference.cache
+C:\Users\djano\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\djano\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfoInputs.cache
+C:\Users\djano\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfo.cs
+C:\Users\djano\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.exe
+C:\Users\djano\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.deps.json
+C:\Users\djano\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.json
+C:\Users\djano\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.dev.json
+C:\Users\djano\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.dll
+C:\Users\djano\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.pdb
+C:\Users\djano\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.dll
+C:\Users\djano\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.pdb
+C:\Users\djano\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.genruntimeconfig.cache

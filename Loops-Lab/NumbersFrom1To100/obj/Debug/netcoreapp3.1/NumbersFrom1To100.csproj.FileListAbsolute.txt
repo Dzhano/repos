@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\bin\Debug\netcoreapp3.1\NumbersFrom1To100.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\bin\Debug\netcoreapp3.1\NumbersFrom1To100.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\bin\Debug\netcoreapp3.1\NumbersFrom1To100.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\bin\Debug\netcoreapp3.1\NumbersFrom1To100.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\bin\Debug\netcoreapp3.1\NumbersFrom1To100.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\bin\Debug\netcoreapp3.1\NumbersFrom1To100.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\obj\Debug\netcoreapp3.1\NumbersFrom1To100.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\obj\Debug\netcoreapp3.1\NumbersFrom1To100.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\obj\Debug\netcoreapp3.1\NumbersFrom1To100.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\obj\Debug\netcoreapp3.1\NumbersFrom1To100.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\obj\Debug\netcoreapp3.1\NumbersFrom1To100.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\obj\Debug\netcoreapp3.1\NumbersFrom1To100.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersFrom1To100\obj\Debug\netcoreapp3.1\NumbersFrom1To100.genruntimeconfig.cache

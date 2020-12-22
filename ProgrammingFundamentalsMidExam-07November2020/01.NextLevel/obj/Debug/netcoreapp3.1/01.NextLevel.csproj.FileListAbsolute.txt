@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\bin\Debug\netcoreapp3.1\01.NextLevel.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\bin\Debug\netcoreapp3.1\01.NextLevel.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\bin\Debug\netcoreapp3.1\01.NextLevel.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\bin\Debug\netcoreapp3.1\01.NextLevel.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\bin\Debug\netcoreapp3.1\01.NextLevel.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\bin\Debug\netcoreapp3.1\01.NextLevel.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\obj\Debug\netcoreapp3.1\01.NextLevel.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\obj\Debug\netcoreapp3.1\01.NextLevel.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\obj\Debug\netcoreapp3.1\01.NextLevel.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\obj\Debug\netcoreapp3.1\01.NextLevel.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\obj\Debug\netcoreapp3.1\01.NextLevel.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\obj\Debug\netcoreapp3.1\01.NextLevel.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\01.NextLevel\obj\Debug\netcoreapp3.1\01.NextLevel.genruntimeconfig.cache

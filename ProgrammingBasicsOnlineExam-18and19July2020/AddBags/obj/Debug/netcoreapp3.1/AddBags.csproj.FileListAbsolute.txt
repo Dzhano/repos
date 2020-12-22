@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\bin\Debug\netcoreapp3.1\AddBags.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\bin\Debug\netcoreapp3.1\AddBags.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\bin\Debug\netcoreapp3.1\AddBags.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\bin\Debug\netcoreapp3.1\AddBags.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\bin\Debug\netcoreapp3.1\AddBags.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\bin\Debug\netcoreapp3.1\AddBags.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\obj\Debug\netcoreapp3.1\AddBags.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\obj\Debug\netcoreapp3.1\AddBags.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\obj\Debug\netcoreapp3.1\AddBags.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\obj\Debug\netcoreapp3.1\AddBags.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\obj\Debug\netcoreapp3.1\AddBags.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AddBags\obj\Debug\netcoreapp3.1\AddBags.genruntimeconfig.cache

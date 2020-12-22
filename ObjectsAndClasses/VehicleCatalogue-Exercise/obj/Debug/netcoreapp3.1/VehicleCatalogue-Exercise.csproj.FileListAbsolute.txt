@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\bin\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.exe
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\bin\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.deps.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\bin\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\bin\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\bin\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\bin\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\obj\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\obj\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\obj\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\obj\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\obj\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\obj\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\VehicleCatalogue-Exercise\obj\Debug\netcoreapp3.1\VehicleCatalogue-Exercise.genruntimeconfig.cache

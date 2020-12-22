@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\bin\Debug\netcoreapp3.1\Ages.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\bin\Debug\netcoreapp3.1\Ages.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\bin\Debug\netcoreapp3.1\Ages.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\bin\Debug\netcoreapp3.1\Ages.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\bin\Debug\netcoreapp3.1\Ages.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\bin\Debug\netcoreapp3.1\Ages.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\obj\Debug\netcoreapp3.1\Ages.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\obj\Debug\netcoreapp3.1\Ages.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\obj\Debug\netcoreapp3.1\Ages.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\obj\Debug\netcoreapp3.1\Ages.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\obj\Debug\netcoreapp3.1\Ages.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\obj\Debug\netcoreapp3.1\Ages.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Ages\obj\Debug\netcoreapp3.1\Ages.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\djano\source\repos\Expression\Expression\bin\Debug\netcoreapp3.1\Expression.exe
+C:\Users\djano\source\repos\Expression\Expression\bin\Debug\netcoreapp3.1\Expression.deps.json
+C:\Users\djano\source\repos\Expression\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.json
+C:\Users\djano\source\repos\Expression\Expression\bin\Debug\netcoreapp3.1\Expression.runtimeconfig.dev.json
+C:\Users\djano\source\repos\Expression\Expression\bin\Debug\netcoreapp3.1\Expression.dll
+C:\Users\djano\source\repos\Expression\Expression\bin\Debug\netcoreapp3.1\Expression.pdb
+C:\Users\djano\source\repos\Expression\Expression\obj\Debug\netcoreapp3.1\Expression.csprojAssemblyReference.cache
+C:\Users\djano\source\repos\Expression\Expression\obj\Debug\netcoreapp3.1\Expression.csproj.CoreCompileInputs.cache
+C:\Users\djano\source\repos\Expression\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfoInputs.cache
+C:\Users\djano\source\repos\Expression\Expression\obj\Debug\netcoreapp3.1\Expression.AssemblyInfo.cs
+C:\Users\djano\source\repos\Expression\Expression\obj\Debug\netcoreapp3.1\Expression.dll
+C:\Users\djano\source\repos\Expression\Expression\obj\Debug\netcoreapp3.1\Expression.pdb
+C:\Users\djano\source\repos\Expression\Expression\obj\Debug\netcoreapp3.1\Expression.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.exe
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.deps.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\bin\Debug\netcoreapp3.1\Substring.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Substring\obj\Debug\netcoreapp3.1\Substring.genruntimeconfig.cache

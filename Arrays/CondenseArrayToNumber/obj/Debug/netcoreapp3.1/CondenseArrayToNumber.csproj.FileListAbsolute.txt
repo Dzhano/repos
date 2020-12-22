@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.exe
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\bin\Debug\netcoreapp3.1\LettersChangeNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\LettersChangeNumbers\obj\Debug\netcoreapp3.1\LettersChangeNumbers.genruntimeconfig.cache

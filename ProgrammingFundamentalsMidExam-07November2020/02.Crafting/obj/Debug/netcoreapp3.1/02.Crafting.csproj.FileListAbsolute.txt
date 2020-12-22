@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\bin\Debug\netcoreapp3.1\02.Crafting.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\02.Crafting\obj\Debug\netcoreapp3.1\02.Crafting.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.exe
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.deps.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\bin\Debug\netcoreapp3.1\Spaceship.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Spaceship\obj\Debug\netcoreapp3.1\Spaceship.genruntimeconfig.cache

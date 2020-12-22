@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.csprojAssemblyReference.cache

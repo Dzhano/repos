@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

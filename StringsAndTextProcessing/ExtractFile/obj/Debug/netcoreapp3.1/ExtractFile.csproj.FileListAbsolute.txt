@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.exe
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.deps.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\bin\Debug\netcoreapp3.1\ExtractFile.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\ExtractFile\obj\Debug\netcoreapp3.1\ExtractFile.genruntimeconfig.cache

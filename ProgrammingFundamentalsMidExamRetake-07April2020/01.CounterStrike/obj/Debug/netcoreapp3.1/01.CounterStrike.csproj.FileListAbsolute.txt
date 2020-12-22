@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.genruntimeconfig.cache

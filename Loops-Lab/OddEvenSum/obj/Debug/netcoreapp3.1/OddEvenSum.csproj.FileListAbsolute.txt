@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\bin\Debug\netcoreapp3.1\OddEvenSum.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenSum\obj\Debug\netcoreapp3.1\OddEvenSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.exe
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.deps.json
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\bin\Debug\netcoreapp3.1\CinemaTickets.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\CinemaTickets\obj\Debug\netcoreapp3.1\CinemaTickets.genruntimeconfig.cache

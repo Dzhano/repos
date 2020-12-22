@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.exe
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.deps.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\bin\Debug\netcoreapp3.1\SeaTrip.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\SeaTrip\obj\Debug\netcoreapp3.1\SeaTrip.genruntimeconfig.cache

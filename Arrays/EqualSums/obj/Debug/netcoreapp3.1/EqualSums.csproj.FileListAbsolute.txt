@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\bin\Debug\netcoreapp3.1\EqualSums.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualSums\obj\Debug\netcoreapp3.1\EqualSums.genruntimeconfig.cache

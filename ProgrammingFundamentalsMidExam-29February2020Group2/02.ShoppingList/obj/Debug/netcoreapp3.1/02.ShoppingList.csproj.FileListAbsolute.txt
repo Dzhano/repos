@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\bin\Debug\netcoreapp3.1\02.ShoppingList.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\02.ShoppingList\obj\Debug\netcoreapp3.1\02.ShoppingList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.genruntimeconfig.cache

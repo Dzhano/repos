@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.genruntimeconfig.cache

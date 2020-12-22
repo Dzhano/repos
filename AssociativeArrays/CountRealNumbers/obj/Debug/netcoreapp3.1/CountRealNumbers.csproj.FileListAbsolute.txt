@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.genruntimeconfig.cache

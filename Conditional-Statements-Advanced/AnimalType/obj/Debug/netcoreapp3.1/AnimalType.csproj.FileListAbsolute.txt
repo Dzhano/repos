@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\bin\Debug\netcoreapp3.1\AnimalType.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\AnimalType\obj\Debug\netcoreapp3.1\AnimalType.genruntimeconfig.cache

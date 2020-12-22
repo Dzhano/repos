@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\bin\Debug\netcoreapp3.1\Snowballs.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Snowballs\obj\Debug\netcoreapp3.1\Snowballs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.exe
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\bin\Debug\netcoreapp3.1\TrekkingMania.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TrekkingMania\obj\Debug\netcoreapp3.1\TrekkingMania.genruntimeconfig.cache

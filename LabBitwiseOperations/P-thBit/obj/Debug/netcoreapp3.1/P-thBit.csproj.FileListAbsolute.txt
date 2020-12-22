@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.exe
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.deps.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\bin\Debug\netcoreapp3.1\P-thBit.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\P-thBit\obj\Debug\netcoreapp3.1\P-thBit.genruntimeconfig.cache

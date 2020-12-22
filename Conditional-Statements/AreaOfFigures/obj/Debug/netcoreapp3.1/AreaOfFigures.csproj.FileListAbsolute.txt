@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\bin\Debug\netcoreapp3.1\AreaOfFigures.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\AreaOfFigures\obj\Debug\netcoreapp3.1\AreaOfFigures.genruntimeconfig.cache

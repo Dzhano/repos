@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\bin\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\02.EmojiDetector\obj\Debug\netcoreapp3.1\02.EmojiDetector.genruntimeconfig.cache

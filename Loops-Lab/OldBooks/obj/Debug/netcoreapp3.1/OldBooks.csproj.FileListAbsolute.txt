@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.genruntimeconfig.cache

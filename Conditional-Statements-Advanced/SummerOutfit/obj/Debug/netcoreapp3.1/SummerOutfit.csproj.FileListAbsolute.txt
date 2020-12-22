@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.genruntimeconfig.cache

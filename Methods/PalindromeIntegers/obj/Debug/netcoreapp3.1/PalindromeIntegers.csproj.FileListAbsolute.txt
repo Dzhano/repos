@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.genruntimeconfig.cache

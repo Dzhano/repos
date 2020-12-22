@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\bin\Debug\netcoreapp3.1\FromLeftToTheRight.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\FromLeftToTheRight\obj\Debug\netcoreapp3.1\FromLeftToTheRight.csprojAssemblyReference.cache

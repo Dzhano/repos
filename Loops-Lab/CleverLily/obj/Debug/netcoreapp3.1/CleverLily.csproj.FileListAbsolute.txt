@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.exe
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.deps.json
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.dll
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\bin\Debug\netcoreapp3.1\DanceHall.pdb
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.dll
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.pdb
+D:\Джано\SoftUni\source\repos\DanceHall\DanceHall\obj\Debug\netcoreapp3.1\DanceHall.genruntimeconfig.cache

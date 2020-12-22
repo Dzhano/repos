@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\03.HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\03.HeroesOfCodeAndLogicVII.genruntimeconfig.cache

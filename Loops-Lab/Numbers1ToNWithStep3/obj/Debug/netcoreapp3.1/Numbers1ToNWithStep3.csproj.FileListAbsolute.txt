@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\Numbers1ToNWithStep3.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\Numbers1ToNWithStep3.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\Numbers1ToNWithStep3.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\Numbers1ToNWithStep3.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\Numbers1ToNWithStep3.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\bin\Debug\netcoreapp3.1\Numbers1ToNWithStep3.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\Numbers1ToNWithStep3.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\Numbers1ToNWithStep3.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\Numbers1ToNWithStep3.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\Numbers1ToNWithStep3.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\Numbers1ToNWithStep3.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\Numbers1ToNWithStep3.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Numbers1ToNWithStep3\obj\Debug\netcoreapp3.1\Numbers1ToNWithStep3.genruntimeconfig.cache

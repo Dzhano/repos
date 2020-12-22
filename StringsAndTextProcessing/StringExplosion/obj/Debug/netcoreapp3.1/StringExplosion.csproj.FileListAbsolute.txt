@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.exe
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.deps.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\bin\Debug\netcoreapp3.1\StringExplosion.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\StringExplosion\obj\Debug\netcoreapp3.1\StringExplosion.csprojAssemblyReference.cache

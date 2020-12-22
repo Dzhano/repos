@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.genruntimeconfig.cache

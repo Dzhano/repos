@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.exe
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.deps.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\bin\Debug\netcoreapp3.1\BinaryDigitsCount.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BinaryDigitsCount\obj\Debug\netcoreapp3.1\BinaryDigitsCount.genruntimeconfig.cache

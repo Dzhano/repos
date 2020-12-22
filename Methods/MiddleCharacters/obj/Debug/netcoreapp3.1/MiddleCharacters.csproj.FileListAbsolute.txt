@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.genruntimeconfig.cache

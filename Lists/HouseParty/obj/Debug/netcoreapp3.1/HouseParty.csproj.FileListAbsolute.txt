@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.genruntimeconfig.cache

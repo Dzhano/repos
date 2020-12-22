@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MOBA_Challenger/1.0.0": {
+        "runtime": {
+          "MOBA_Challenger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MOBA_Challenger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

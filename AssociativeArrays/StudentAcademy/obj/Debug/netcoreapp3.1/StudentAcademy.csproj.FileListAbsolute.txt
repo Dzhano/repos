@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.genruntimeconfig.cache

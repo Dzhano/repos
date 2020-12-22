@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\bin\Debug\netcoreapp3.1\FishingBoat.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FishingBoat\obj\Debug\netcoreapp3.1\FishingBoat.genruntimeconfig.cache

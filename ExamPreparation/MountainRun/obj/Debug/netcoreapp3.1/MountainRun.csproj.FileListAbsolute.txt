@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.exe
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\bin\Debug\netcoreapp3.1\MountainRun.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\MountainRun\obj\Debug\netcoreapp3.1\MountainRun.genruntimeconfig.cache

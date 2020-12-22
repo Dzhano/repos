@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+D:\Джано\SoftUni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+D:\Джано\SoftUni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+D:\Джано\SoftUni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+D:\Джано\SoftUni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+D:\Джано\SoftUni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
+D:\Джано\SoftUni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.genruntimeconfig.cache

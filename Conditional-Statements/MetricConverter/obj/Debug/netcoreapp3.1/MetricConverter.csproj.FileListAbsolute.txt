@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\bin\Debug\netcoreapp3.1\MetricConverter.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\MetricConverter\obj\Debug\netcoreapp3.1\MetricConverter.genruntimeconfig.cache

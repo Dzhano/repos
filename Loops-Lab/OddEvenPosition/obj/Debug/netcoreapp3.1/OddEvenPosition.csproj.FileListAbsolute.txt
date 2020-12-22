@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.genruntimeconfig.cache

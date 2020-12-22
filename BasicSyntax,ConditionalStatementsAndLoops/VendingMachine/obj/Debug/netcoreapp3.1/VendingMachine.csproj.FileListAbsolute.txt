@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

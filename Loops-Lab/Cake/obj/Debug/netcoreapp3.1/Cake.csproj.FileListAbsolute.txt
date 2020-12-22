@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\bin\Debug\netcoreapp3.1\Cake.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\bin\Debug\netcoreapp3.1\Cake.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\bin\Debug\netcoreapp3.1\Cake.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\bin\Debug\netcoreapp3.1\Cake.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\obj\Debug\netcoreapp3.1\Cake.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\obj\Debug\netcoreapp3.1\Cake.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\obj\Debug\netcoreapp3.1\Cake.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Cake\obj\Debug\netcoreapp3.1\Cake.genruntimeconfig.cache

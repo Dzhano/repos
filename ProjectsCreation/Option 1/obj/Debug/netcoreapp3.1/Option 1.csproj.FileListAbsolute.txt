@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\bin\Debug\netcoreapp3.1\Option 1.exe
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\bin\Debug\netcoreapp3.1\Option 1.deps.json
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\bin\Debug\netcoreapp3.1\Option 1.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\bin\Debug\netcoreapp3.1\Option 1.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\bin\Debug\netcoreapp3.1\Option 1.dll
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\bin\Debug\netcoreapp3.1\Option 1.pdb
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\obj\Debug\netcoreapp3.1\Option 1.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\obj\Debug\netcoreapp3.1\Option 1.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\obj\Debug\netcoreapp3.1\Option 1.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\obj\Debug\netcoreapp3.1\Option 1.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\obj\Debug\netcoreapp3.1\Option 1.dll
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\obj\Debug\netcoreapp3.1\Option 1.pdb
+D:\Джано\SoftUni\source\repos\ProjectsCreation\Option 1\obj\Debug\netcoreapp3.1\Option 1.genruntimeconfig.cache

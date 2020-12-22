@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\bin\Debug\netcoreapp3.1\NumbersNTo1.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\bin\Debug\netcoreapp3.1\NumbersNTo1.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\bin\Debug\netcoreapp3.1\NumbersNTo1.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\bin\Debug\netcoreapp3.1\NumbersNTo1.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\bin\Debug\netcoreapp3.1\NumbersNTo1.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\bin\Debug\netcoreapp3.1\NumbersNTo1.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\obj\Debug\netcoreapp3.1\NumbersNTo1.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\obj\Debug\netcoreapp3.1\NumbersNTo1.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\obj\Debug\netcoreapp3.1\NumbersNTo1.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\obj\Debug\netcoreapp3.1\NumbersNTo1.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\obj\Debug\netcoreapp3.1\NumbersNTo1.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\obj\Debug\netcoreapp3.1\NumbersNTo1.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersNTo1\obj\Debug\netcoreapp3.1\NumbersNTo1.genruntimeconfig.cache

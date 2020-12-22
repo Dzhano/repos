@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\bin\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\WorldSwimmingRecord\obj\Debug\netcoreapp3.1\WorldSwimmingRecord.genruntimeconfig.cache

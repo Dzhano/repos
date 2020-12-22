@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\bin\Debug\netcoreapp3.1\SuitcasesLoad.exe
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\bin\Debug\netcoreapp3.1\SuitcasesLoad.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\bin\Debug\netcoreapp3.1\SuitcasesLoad.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\bin\Debug\netcoreapp3.1\SuitcasesLoad.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\bin\Debug\netcoreapp3.1\SuitcasesLoad.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\bin\Debug\netcoreapp3.1\SuitcasesLoad.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\obj\Debug\netcoreapp3.1\SuitcasesLoad.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\obj\Debug\netcoreapp3.1\SuitcasesLoad.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\obj\Debug\netcoreapp3.1\SuitcasesLoad.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\obj\Debug\netcoreapp3.1\SuitcasesLoad.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\obj\Debug\netcoreapp3.1\SuitcasesLoad.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\obj\Debug\netcoreapp3.1\SuitcasesLoad.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\SuitcasesLoad\obj\Debug\netcoreapp3.1\SuitcasesLoad.genruntimeconfig.cache

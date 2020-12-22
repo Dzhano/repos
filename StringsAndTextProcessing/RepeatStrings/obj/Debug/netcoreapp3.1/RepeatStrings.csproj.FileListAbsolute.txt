@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.exe
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.deps.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\bin\Debug\netcoreapp3.1\RepeatStrings.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\RepeatStrings\obj\Debug\netcoreapp3.1\RepeatStrings.genruntimeconfig.cache

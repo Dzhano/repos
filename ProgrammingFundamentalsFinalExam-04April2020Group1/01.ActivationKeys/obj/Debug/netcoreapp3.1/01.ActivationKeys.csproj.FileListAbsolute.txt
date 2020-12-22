@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\bin\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group1\01.ActivationKeys\obj\Debug\netcoreapp3.1\01.ActivationKeys.genruntimeconfig.cache

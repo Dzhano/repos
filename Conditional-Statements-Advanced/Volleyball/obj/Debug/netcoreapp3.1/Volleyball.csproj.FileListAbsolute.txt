@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\bin\Debug\netcoreapp3.1\Volleyball.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Volleyball\obj\Debug\netcoreapp3.1\Volleyball.genruntimeconfig.cache

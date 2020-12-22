@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.exe
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\bin\Debug\netcoreapp3.1\FitnessCard.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\FitnessCard\obj\Debug\netcoreapp3.1\FitnessCard.genruntimeconfig.cache

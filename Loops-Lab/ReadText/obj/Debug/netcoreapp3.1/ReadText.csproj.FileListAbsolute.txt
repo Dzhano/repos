@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\bin\Debug\netcoreapp3.1\ReadText.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\ReadText\obj\Debug\netcoreapp3.1\ReadText.genruntimeconfig.cache

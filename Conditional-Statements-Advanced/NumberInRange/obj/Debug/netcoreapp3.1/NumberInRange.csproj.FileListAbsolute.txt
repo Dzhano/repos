@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\bin\Debug\netcoreapp3.1\NumberInRange.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\NumberInRange\obj\Debug\netcoreapp3.1\NumberInRange.genruntimeconfig.cache

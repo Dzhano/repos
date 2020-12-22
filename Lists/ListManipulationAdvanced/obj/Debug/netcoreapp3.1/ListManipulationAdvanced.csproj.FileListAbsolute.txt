@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.genruntimeconfig.cache

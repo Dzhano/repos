@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\bin\Debug\netcoreapp3.1\02.FancyBarcodes.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-04April2020Group2\02.FancyBarcodes\obj\Debug\netcoreapp3.1\02.FancyBarcodes.genruntimeconfig.cache

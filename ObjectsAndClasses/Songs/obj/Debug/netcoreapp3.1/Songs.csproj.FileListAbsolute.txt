@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.exe
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.deps.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.genruntimeconfig.cache

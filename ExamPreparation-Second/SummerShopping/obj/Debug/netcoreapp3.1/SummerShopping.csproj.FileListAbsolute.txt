@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\bin\Debug\netcoreapp3.1\SummerShopping.exe
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\bin\Debug\netcoreapp3.1\SummerShopping.deps.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\bin\Debug\netcoreapp3.1\SummerShopping.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\bin\Debug\netcoreapp3.1\SummerShopping.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\bin\Debug\netcoreapp3.1\SummerShopping.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\bin\Debug\netcoreapp3.1\SummerShopping.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\obj\Debug\netcoreapp3.1\SummerShopping.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\obj\Debug\netcoreapp3.1\SummerShopping.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\obj\Debug\netcoreapp3.1\SummerShopping.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\obj\Debug\netcoreapp3.1\SummerShopping.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\obj\Debug\netcoreapp3.1\SummerShopping.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\obj\Debug\netcoreapp3.1\SummerShopping.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\SummerShopping\obj\Debug\netcoreapp3.1\SummerShopping.genruntimeconfig.cache

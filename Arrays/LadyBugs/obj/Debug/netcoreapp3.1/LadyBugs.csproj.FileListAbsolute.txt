@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\bin\Debug\netcoreapp3.1\LadyBugs.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\LadyBugs\obj\Debug\netcoreapp3.1\LadyBugs.csprojAssemblyReference.cache

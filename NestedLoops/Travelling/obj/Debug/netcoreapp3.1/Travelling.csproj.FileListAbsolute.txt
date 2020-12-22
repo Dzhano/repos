@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.exe
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.deps.json
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\bin\Debug\netcoreapp3.1\Travelling.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\Travelling\obj\Debug\netcoreapp3.1\Travelling.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.genruntimeconfig.cache

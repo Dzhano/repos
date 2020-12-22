@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\bin\Debug\netcoreapp3.1\GraduationPart2.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\bin\Debug\netcoreapp3.1\GraduationPart2.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\bin\Debug\netcoreapp3.1\GraduationPart2.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\bin\Debug\netcoreapp3.1\GraduationPart2.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\bin\Debug\netcoreapp3.1\GraduationPart2.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\bin\Debug\netcoreapp3.1\GraduationPart2.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\obj\Debug\netcoreapp3.1\GraduationPart2.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\obj\Debug\netcoreapp3.1\GraduationPart2.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\obj\Debug\netcoreapp3.1\GraduationPart2.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\obj\Debug\netcoreapp3.1\GraduationPart2.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\obj\Debug\netcoreapp3.1\GraduationPart2.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\obj\Debug\netcoreapp3.1\GraduationPart2.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\GraduationPart2\obj\Debug\netcoreapp3.1\GraduationPart2.genruntimeconfig.cache

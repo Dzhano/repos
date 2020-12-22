@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\bin\Debug\netcoreapp3.1\MixedUpLists.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\bin\Debug\netcoreapp3.1\MixedUpLists.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\bin\Debug\netcoreapp3.1\MixedUpLists.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\bin\Debug\netcoreapp3.1\MixedUpLists.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\bin\Debug\netcoreapp3.1\MixedUpLists.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\bin\Debug\netcoreapp3.1\MixedUpLists.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\obj\Debug\netcoreapp3.1\MixedUpLists.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\obj\Debug\netcoreapp3.1\MixedUpLists.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\obj\Debug\netcoreapp3.1\MixedUpLists.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\obj\Debug\netcoreapp3.1\MixedUpLists.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\obj\Debug\netcoreapp3.1\MixedUpLists.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\obj\Debug\netcoreapp3.1\MixedUpLists.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\MixedUpLists\obj\Debug\netcoreapp3.1\MixedUpLists.genruntimeconfig.cache

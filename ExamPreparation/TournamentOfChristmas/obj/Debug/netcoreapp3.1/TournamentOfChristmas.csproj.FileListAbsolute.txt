@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.exe
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\bin\Debug\netcoreapp3.1\AgencyProfit.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AgencyProfit\obj\Debug\netcoreapp3.1\AgencyProfit.genruntimeconfig.cache

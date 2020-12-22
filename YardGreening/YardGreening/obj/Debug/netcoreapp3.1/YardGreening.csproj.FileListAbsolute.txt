@@ -1,0 +1,13 @@
+C:\Users\djano\source\repos\YardGreening\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.exe
+C:\Users\djano\source\repos\YardGreening\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.deps.json
+C:\Users\djano\source\repos\YardGreening\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.json
+C:\Users\djano\source\repos\YardGreening\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.runtimeconfig.dev.json
+C:\Users\djano\source\repos\YardGreening\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.dll
+C:\Users\djano\source\repos\YardGreening\YardGreening\bin\Debug\netcoreapp3.1\YardGreening.pdb
+C:\Users\djano\source\repos\YardGreening\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.csprojAssemblyReference.cache
+C:\Users\djano\source\repos\YardGreening\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.csproj.CoreCompileInputs.cache
+C:\Users\djano\source\repos\YardGreening\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfoInputs.cache
+C:\Users\djano\source\repos\YardGreening\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.AssemblyInfo.cs
+C:\Users\djano\source\repos\YardGreening\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.dll
+C:\Users\djano\source\repos\YardGreening\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.pdb
+C:\Users\djano\source\repos\YardGreening\YardGreening\obj\Debug\netcoreapp3.1\YardGreening.genruntimeconfig.cache

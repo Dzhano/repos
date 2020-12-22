@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache

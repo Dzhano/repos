@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.exe
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.deps.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\bin\Debug\netcoreapp3.1\OrderByAge.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\OrderByAge\obj\Debug\netcoreapp3.1\OrderByAge.genruntimeconfig.cache

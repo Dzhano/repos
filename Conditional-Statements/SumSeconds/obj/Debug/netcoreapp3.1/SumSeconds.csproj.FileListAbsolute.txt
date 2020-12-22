@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache

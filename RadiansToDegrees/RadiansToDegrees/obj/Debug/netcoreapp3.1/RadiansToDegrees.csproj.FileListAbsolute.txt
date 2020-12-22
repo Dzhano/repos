@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.exe
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.deps.json
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.dll
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\bin\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.dll
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.pdb
+D:\Джано\SoftUni\source\repos\RadiansToDegrees\RadiansToDegrees\obj\Debug\netcoreapp3.1\RadiansToDegrees.genruntimeconfig.cache

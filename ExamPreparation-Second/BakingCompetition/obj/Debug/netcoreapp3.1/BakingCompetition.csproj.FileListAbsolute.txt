@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\obj\Debug\netcoreapp3.1\BakingCompetition.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\obj\Debug\netcoreapp3.1\BakingCompetition.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\obj\Debug\netcoreapp3.1\BakingCompetition.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\obj\Debug\netcoreapp3.1\BakingCompetition.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\bin\Debug\netcoreapp3.1\BakingCompetition.exe
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\bin\Debug\netcoreapp3.1\BakingCompetition.deps.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\bin\Debug\netcoreapp3.1\BakingCompetition.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\bin\Debug\netcoreapp3.1\BakingCompetition.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\bin\Debug\netcoreapp3.1\BakingCompetition.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\bin\Debug\netcoreapp3.1\BakingCompetition.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\obj\Debug\netcoreapp3.1\BakingCompetition.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\obj\Debug\netcoreapp3.1\BakingCompetition.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\BakingCompetition\obj\Debug\netcoreapp3.1\BakingCompetition.genruntimeconfig.cache

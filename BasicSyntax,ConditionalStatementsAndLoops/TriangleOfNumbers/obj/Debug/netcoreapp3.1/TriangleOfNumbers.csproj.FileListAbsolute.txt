@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.genruntimeconfig.cache

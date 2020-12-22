@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache

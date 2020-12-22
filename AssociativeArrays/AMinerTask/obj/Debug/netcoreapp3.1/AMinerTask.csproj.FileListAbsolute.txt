@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.genruntimeconfig.cache

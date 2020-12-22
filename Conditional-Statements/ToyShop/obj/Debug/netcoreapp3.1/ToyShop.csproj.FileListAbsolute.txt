@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\bin\Debug\netcoreapp3.1\ToyShop.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\ToyShop\obj\Debug\netcoreapp3.1\ToyShop.genruntimeconfig.cache

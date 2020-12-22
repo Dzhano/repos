@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\bin\Debug\netcoreapp3.1\Number100.200.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\bin\Debug\netcoreapp3.1\Number100.200.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\bin\Debug\netcoreapp3.1\Number100.200.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\bin\Debug\netcoreapp3.1\Number100.200.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\bin\Debug\netcoreapp3.1\Number100.200.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\bin\Debug\netcoreapp3.1\Number100.200.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\obj\Debug\netcoreapp3.1\Number100.200.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\obj\Debug\netcoreapp3.1\Number100.200.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\obj\Debug\netcoreapp3.1\Number100.200.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\obj\Debug\netcoreapp3.1\Number100.200.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\obj\Debug\netcoreapp3.1\Number100.200.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\obj\Debug\netcoreapp3.1\Number100.200.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number100.200\obj\Debug\netcoreapp3.1\Number100.200.genruntimeconfig.cache

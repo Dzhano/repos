@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.genruntimeconfig.cache

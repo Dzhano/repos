@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.genruntimeconfig.cache

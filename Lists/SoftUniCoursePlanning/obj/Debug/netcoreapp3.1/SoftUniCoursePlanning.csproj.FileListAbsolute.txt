@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\bin\Debug\netcoreapp3.1\SoftUniCoursePlanning.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\SoftUniCoursePlanning\obj\Debug\netcoreapp3.1\SoftUniCoursePlanning.genruntimeconfig.cache

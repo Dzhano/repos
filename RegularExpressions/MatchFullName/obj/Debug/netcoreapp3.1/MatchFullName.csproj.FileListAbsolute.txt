@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.exe
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.deps.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\bin\Debug\netcoreapp3.1\MatchFullName.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchFullName\obj\Debug\netcoreapp3.1\MatchFullName.genruntimeconfig.cache

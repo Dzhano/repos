@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\bin\Debug\netcoreapp3.1\03.WarShips.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\bin\Debug\netcoreapp3.1\03.WarShips.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\bin\Debug\netcoreapp3.1\03.WarShips.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\bin\Debug\netcoreapp3.1\03.WarShips.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\bin\Debug\netcoreapp3.1\03.WarShips.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\bin\Debug\netcoreapp3.1\03.WarShips.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\obj\Debug\netcoreapp3.1\03.WarShips.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\obj\Debug\netcoreapp3.1\03.WarShips.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\obj\Debug\netcoreapp3.1\03.WarShips.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\obj\Debug\netcoreapp3.1\03.WarShips.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\obj\Debug\netcoreapp3.1\03.WarShips.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\obj\Debug\netcoreapp3.1\03.WarShips.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-07November2020\03.WarShips\obj\Debug\netcoreapp3.1\03.WarShips.genruntimeconfig.cache

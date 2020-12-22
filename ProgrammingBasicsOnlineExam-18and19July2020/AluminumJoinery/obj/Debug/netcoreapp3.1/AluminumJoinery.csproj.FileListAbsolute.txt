@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.genruntimeconfig.cache

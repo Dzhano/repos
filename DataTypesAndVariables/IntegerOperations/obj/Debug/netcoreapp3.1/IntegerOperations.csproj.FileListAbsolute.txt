@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\bin\Debug\netcoreapp3.1\IntegerOperations.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\IntegerOperations\obj\Debug\netcoreapp3.1\IntegerOperations.genruntimeconfig.cache

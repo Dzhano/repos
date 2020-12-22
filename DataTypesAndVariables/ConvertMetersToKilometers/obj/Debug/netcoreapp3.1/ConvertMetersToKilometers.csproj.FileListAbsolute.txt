@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\bin\Debug\netcoreapp3.1\ConvertMetersToKilometers.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ConvertMetersToKilometers\obj\Debug\netcoreapp3.1\ConvertMetersToKilometers.genruntimeconfig.cache

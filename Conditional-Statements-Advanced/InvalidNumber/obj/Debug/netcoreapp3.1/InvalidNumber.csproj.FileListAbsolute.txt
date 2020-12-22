@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\bin\Debug\netcoreapp3.1\InvalidNumber.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\InvalidNumber\obj\Debug\netcoreapp3.1\InvalidNumber.genruntimeconfig.cache

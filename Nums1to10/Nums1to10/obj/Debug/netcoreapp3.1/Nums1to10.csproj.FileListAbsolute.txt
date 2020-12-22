@@ -1,0 +1,13 @@
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.exe
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.deps.json
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.runtimeconfig.json
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.runtimeconfig.dev.json
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.dll
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\bin\Debug\netcoreapp3.1\Nums1to10.pdb
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.csprojAssemblyReference.cache
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.csproj.CoreCompileInputs.cache
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.AssemblyInfoInputs.cache
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.AssemblyInfo.cs
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.dll
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.pdb
+C:\Users\djano\source\repos\Nums1to10\Nums1to10\obj\Debug\netcoreapp3.1\Nums1to10.genruntimeconfig.cache

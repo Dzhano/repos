@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.genruntimeconfig.cache

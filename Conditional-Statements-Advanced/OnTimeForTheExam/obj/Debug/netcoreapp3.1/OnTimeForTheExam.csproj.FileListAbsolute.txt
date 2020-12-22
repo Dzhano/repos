@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\bin\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\OnTimeForTheExam\obj\Debug\netcoreapp3.1\OnTimeForTheExam.genruntimeconfig.cache

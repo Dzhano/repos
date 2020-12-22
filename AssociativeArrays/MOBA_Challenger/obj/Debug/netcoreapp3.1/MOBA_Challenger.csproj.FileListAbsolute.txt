@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\obj\Debug\netcoreapp3.1\MOBA_Challenger.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\obj\Debug\netcoreapp3.1\MOBA_Challenger.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\obj\Debug\netcoreapp3.1\MOBA_Challenger.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\obj\Debug\netcoreapp3.1\MOBA_Challenger.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\bin\Debug\netcoreapp3.1\MOBA_Challenger.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\bin\Debug\netcoreapp3.1\MOBA_Challenger.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\bin\Debug\netcoreapp3.1\MOBA_Challenger.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\bin\Debug\netcoreapp3.1\MOBA_Challenger.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\bin\Debug\netcoreapp3.1\MOBA_Challenger.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\bin\Debug\netcoreapp3.1\MOBA_Challenger.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\obj\Debug\netcoreapp3.1\MOBA_Challenger.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\obj\Debug\netcoreapp3.1\MOBA_Challenger.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\MOBA_Challenger\obj\Debug\netcoreapp3.1\MOBA_Challenger.genruntimeconfig.cache

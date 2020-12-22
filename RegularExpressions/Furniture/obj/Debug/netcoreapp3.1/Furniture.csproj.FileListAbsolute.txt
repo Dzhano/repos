@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.exe
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.deps.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.genruntimeconfig.cache

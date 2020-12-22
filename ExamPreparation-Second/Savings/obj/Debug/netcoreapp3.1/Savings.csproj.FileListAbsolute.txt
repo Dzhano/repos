@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\obj\Debug\netcoreapp3.1\Savings.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\obj\Debug\netcoreapp3.1\Savings.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\obj\Debug\netcoreapp3.1\Savings.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\bin\Debug\netcoreapp3.1\Savings.exe
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\bin\Debug\netcoreapp3.1\Savings.deps.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\bin\Debug\netcoreapp3.1\Savings.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\bin\Debug\netcoreapp3.1\Savings.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\bin\Debug\netcoreapp3.1\Savings.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\obj\Debug\netcoreapp3.1\Savings.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\obj\Debug\netcoreapp3.1\Savings.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\Savings\obj\Debug\netcoreapp3.1\Savings.genruntimeconfig.cache

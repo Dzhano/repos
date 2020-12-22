@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\bin\Debug\netcoreapp3.1\GodzillaVs.Kong.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\bin\Debug\netcoreapp3.1\GodzillaVs.Kong.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\bin\Debug\netcoreapp3.1\GodzillaVs.Kong.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\bin\Debug\netcoreapp3.1\GodzillaVs.Kong.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\bin\Debug\netcoreapp3.1\GodzillaVs.Kong.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\bin\Debug\netcoreapp3.1\GodzillaVs.Kong.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\obj\Debug\netcoreapp3.1\GodzillaVs.Kong.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\obj\Debug\netcoreapp3.1\GodzillaVs.Kong.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\obj\Debug\netcoreapp3.1\GodzillaVs.Kong.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\obj\Debug\netcoreapp3.1\GodzillaVs.Kong.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\obj\Debug\netcoreapp3.1\GodzillaVs.Kong.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\obj\Debug\netcoreapp3.1\GodzillaVs.Kong.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\GodzillaVs.Kong\obj\Debug\netcoreapp3.1\GodzillaVs.Kong.genruntimeconfig.cache

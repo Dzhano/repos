@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\bin\Debug\netcoreapp3.1\WordSynonyms.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\WordSynonyms\obj\Debug\netcoreapp3.1\WordSynonyms.genruntimeconfig.cache

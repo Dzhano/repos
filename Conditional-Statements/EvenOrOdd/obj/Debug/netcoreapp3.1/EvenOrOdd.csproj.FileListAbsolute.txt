@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache

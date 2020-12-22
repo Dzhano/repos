@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\bin\Debug\netcoreapp3.1\Building.exe
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\bin\Debug\netcoreapp3.1\Building.deps.json
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\bin\Debug\netcoreapp3.1\Building.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\bin\Debug\netcoreapp3.1\Building.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\obj\Debug\netcoreapp3.1\Building.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\obj\Debug\netcoreapp3.1\Building.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\obj\Debug\netcoreapp3.1\Building.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\obj\Debug\netcoreapp3.1\Building.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\Building\obj\Debug\netcoreapp3.1\Building.genruntimeconfig.cache

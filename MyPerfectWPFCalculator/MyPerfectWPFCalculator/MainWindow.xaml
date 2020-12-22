@@ -1,0 +1,39 @@
+﻿<Window x:Class="MyPerfectWPFCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyPerfectWPFCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="569">
+    <Grid>
+        <Button x:Name="ButtonZero" Content="0" HorizontalAlignment="Left" Margin="24,353,0,0" VerticalAlignment="Top" FontSize="24" Width="42" Click="ButtonZero_Click"/>
+        <Button x:Name="ButtonOne" Content="1" HorizontalAlignment="Left" Margin="101,353,0,0" VerticalAlignment="Top" FontSize="24" Width="41" Click="ButtonOne_Click"/>
+        <Button x:Name="ButtonTwo" Content="2" HorizontalAlignment="Left" Margin="190,353,0,0" VerticalAlignment="Top" FontSize="24" Width="42" Click="ButtonTwo_Click"/>
+        <Button x:Name="ButtonThree" Content="3" HorizontalAlignment="Left" Margin="287,349,0,0" VerticalAlignment="Top" FontSize="24" Width="43" Height="44" Click="ButtonThree_Click"/>
+        <Button x:Name="ButtonFour" Content="4" HorizontalAlignment="Left" Margin="101,271,0,0" VerticalAlignment="Top" FontSize="24" Width="41" Click="ButtonFour_Click"/>
+        <Button x:Name="ButtonFive" Content="5" HorizontalAlignment="Left" Margin="190,271,0,0" VerticalAlignment="Top" FontSize="24" Width="42" Click="ButtonFive_Click"/>
+        <Button x:Name="ButtonSix" Content="6" HorizontalAlignment="Left" Margin="287,271,0,0" VerticalAlignment="Top" FontSize="24" Width="43" Click="ButtonSix_Click"/>
+        <Button x:Name="ButtonSeven" Content="7" HorizontalAlignment="Left" Margin="101,0,0,0" VerticalAlignment="Center" FontSize="24" Width="41" Click="ButtonSeven_Click"/>
+        <Button x:Name="ButtonEight" Content="8" HorizontalAlignment="Left" Margin="190,0,0,0" VerticalAlignment="Center" FontSize="24" Width="42" Click="ButtonEight_Click"/>
+        <Button x:Name="ButtonNine" Content="9" HorizontalAlignment="Left" Margin="287,0,0,0" VerticalAlignment="Center" FontSize="24" Width="43" Click="ButtonNine_Click"/>
+        <Button x:Name="ButtonPlus" Content="+" HorizontalAlignment="Left" Margin="436,41,0,0" VerticalAlignment="Top" FontSize="24" Width="42" Click="ButtonPlus_Click"/>
+        <Button x:Name="ButtonMinus" Content="-" HorizontalAlignment="Left" Margin="436,122,0,0" VerticalAlignment="Top" FontSize="24" Width="42" Click="ButtonMinus_Click"/>
+        <Button x:Name="ButtonEquals" Content="=" HorizontalAlignment="Left" Margin="436,357,0,0" VerticalAlignment="Top" FontSize="24" Width="42" Click="ButtonEquals_Click"/>
+        <TextBox x:Name="PreviousNum" HorizontalAlignment="Left" Margin="45,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="20" FontStyle="Italic"/>
+        <TextBox x:Name="CurrentNum" HorizontalAlignment="Left" Margin="45,69,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="20" FontStyle="Italic"/>
+        <TextBox x:Name="Operator" HorizontalAlignment="Left" Margin="248,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="41" FontSize="20" FontStyle="Italic"/>
+        <Button Content="*" HorizontalAlignment="Left" Margin="436,195,0,0" VerticalAlignment="Top" Height="39" Width="42" FontSize="24" Click="Button_Click"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="436,269,0,0" VerticalAlignment="Top" Height="41" FontSize="24" RenderTransformOrigin="0.5,0.5" Width="44" Click="Button_Click_1">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="0.997"/>
+                    <SkewTransform AngleY="3.942" AngleX="-2.292"/>
+                    <RotateTransform Angle="-3.375"/>
+                    <TranslateTransform Y="0.178" X="-0.832"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>

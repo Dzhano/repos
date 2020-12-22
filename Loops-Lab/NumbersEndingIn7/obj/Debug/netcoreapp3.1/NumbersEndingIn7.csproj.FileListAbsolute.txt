@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\bin\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\NumbersEndingIn7\obj\Debug\netcoreapp3.1\NumbersEndingIn7.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\bin\Debug\netcoreapp3.1\Articles_SecondSolution.exe
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\bin\Debug\netcoreapp3.1\Articles_SecondSolution.deps.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\bin\Debug\netcoreapp3.1\Articles_SecondSolution.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\bin\Debug\netcoreapp3.1\Articles_SecondSolution.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\bin\Debug\netcoreapp3.1\Articles_SecondSolution.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\bin\Debug\netcoreapp3.1\Articles_SecondSolution.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\obj\Debug\netcoreapp3.1\Articles_SecondSolution.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\obj\Debug\netcoreapp3.1\Articles_SecondSolution.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\obj\Debug\netcoreapp3.1\Articles_SecondSolution.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\obj\Debug\netcoreapp3.1\Articles_SecondSolution.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\obj\Debug\netcoreapp3.1\Articles_SecondSolution.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\obj\Debug\netcoreapp3.1\Articles_SecondSolution.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\Articles_SecondSolution\obj\Debug\netcoreapp3.1\Articles_SecondSolution.genruntimeconfig.cache

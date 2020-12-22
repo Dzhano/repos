@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

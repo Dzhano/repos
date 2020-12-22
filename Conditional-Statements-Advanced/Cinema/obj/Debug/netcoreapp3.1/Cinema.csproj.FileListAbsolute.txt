@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache

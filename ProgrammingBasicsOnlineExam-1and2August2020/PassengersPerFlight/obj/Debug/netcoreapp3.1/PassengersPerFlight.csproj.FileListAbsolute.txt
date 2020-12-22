@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\bin\Debug\netcoreapp3.1\PassengersPerFlight.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\PassengersPerFlight\obj\Debug\netcoreapp3.1\PassengersPerFlight.genruntimeconfig.cache

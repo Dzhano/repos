@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.genruntimeconfig.cache

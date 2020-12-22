@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.exe
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.deps.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\bin\Debug\netcoreapp3.1\MatchDates.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchDates\obj\Debug\netcoreapp3.1\MatchDates.genruntimeconfig.cache

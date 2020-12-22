@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\bin\Debug\netcoreapp3.1\AnonymousThreat.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\AnonymousThreat\obj\Debug\netcoreapp3.1\AnonymousThreat.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\RefactoringPrimeChecker.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\RefactoringPrimeChecker.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\RefactoringPrimeChecker.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\RefactoringPrimeChecker.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\RefactoringPrimeChecker.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\bin\Debug\netcoreapp3.1\RefactoringPrimeChecker.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\RefactoringPrimeChecker.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\RefactoringPrimeChecker.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\RefactoringPrimeChecker.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\RefactoringPrimeChecker.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\RefactoringPrimeChecker\obj\Debug\netcoreapp3.1\RefactoringPrimeChecker.genruntimeconfig.cache

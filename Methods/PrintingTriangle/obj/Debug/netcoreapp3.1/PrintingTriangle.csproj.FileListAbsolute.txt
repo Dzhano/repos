@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\bin\Debug\netcoreapp3.1\PrintingTriangle.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\PrintingTriangle\obj\Debug\netcoreapp3.1\PrintingTriangle.genruntimeconfig.cache

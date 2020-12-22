@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\bin\Debug\netcoreapp3.1\Balls.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\bin\Debug\netcoreapp3.1\Balls.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\bin\Debug\netcoreapp3.1\Balls.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\bin\Debug\netcoreapp3.1\Balls.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\bin\Debug\netcoreapp3.1\Balls.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\bin\Debug\netcoreapp3.1\Balls.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\obj\Debug\netcoreapp3.1\Balls.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\obj\Debug\netcoreapp3.1\Balls.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\obj\Debug\netcoreapp3.1\Balls.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\obj\Debug\netcoreapp3.1\Balls.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\obj\Debug\netcoreapp3.1\Balls.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\obj\Debug\netcoreapp3.1\Balls.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\Balls\obj\Debug\netcoreapp3.1\Balls.genruntimeconfig.cache

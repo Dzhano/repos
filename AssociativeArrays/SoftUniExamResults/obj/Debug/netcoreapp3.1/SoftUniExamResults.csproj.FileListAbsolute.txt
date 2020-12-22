@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\bin\Debug\netcoreapp3.1\SoftUniExamResults.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\bin\Debug\netcoreapp3.1\SoftUniExamResults.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\bin\Debug\netcoreapp3.1\SoftUniExamResults.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\bin\Debug\netcoreapp3.1\SoftUniExamResults.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\bin\Debug\netcoreapp3.1\SoftUniExamResults.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\bin\Debug\netcoreapp3.1\SoftUniExamResults.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\obj\Debug\netcoreapp3.1\SoftUniExamResults.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\obj\Debug\netcoreapp3.1\SoftUniExamResults.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\obj\Debug\netcoreapp3.1\SoftUniExamResults.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\obj\Debug\netcoreapp3.1\SoftUniExamResults.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\obj\Debug\netcoreapp3.1\SoftUniExamResults.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\obj\Debug\netcoreapp3.1\SoftUniExamResults.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\SoftUniExamResults\obj\Debug\netcoreapp3.1\SoftUniExamResults.genruntimeconfig.cache

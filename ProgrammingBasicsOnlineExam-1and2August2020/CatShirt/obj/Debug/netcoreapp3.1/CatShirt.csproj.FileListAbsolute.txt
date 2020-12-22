@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\bin\Debug\netcoreapp3.1\CatShirt.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\bin\Debug\netcoreapp3.1\CatShirt.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\bin\Debug\netcoreapp3.1\CatShirt.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\bin\Debug\netcoreapp3.1\CatShirt.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\bin\Debug\netcoreapp3.1\CatShirt.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\bin\Debug\netcoreapp3.1\CatShirt.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\obj\Debug\netcoreapp3.1\CatShirt.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\obj\Debug\netcoreapp3.1\CatShirt.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\obj\Debug\netcoreapp3.1\CatShirt.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\obj\Debug\netcoreapp3.1\CatShirt.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\obj\Debug\netcoreapp3.1\CatShirt.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\obj\Debug\netcoreapp3.1\CatShirt.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatShirt\obj\Debug\netcoreapp3.1\CatShirt.genruntimeconfig.cache

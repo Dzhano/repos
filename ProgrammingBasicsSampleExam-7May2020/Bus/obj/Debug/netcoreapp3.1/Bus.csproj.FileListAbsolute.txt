@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\bin\Debug\netcoreapp3.1\Bus.exe
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\bin\Debug\netcoreapp3.1\Bus.deps.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\bin\Debug\netcoreapp3.1\Bus.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\bin\Debug\netcoreapp3.1\Bus.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\bin\Debug\netcoreapp3.1\Bus.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\bin\Debug\netcoreapp3.1\Bus.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\obj\Debug\netcoreapp3.1\Bus.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\obj\Debug\netcoreapp3.1\Bus.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\obj\Debug\netcoreapp3.1\Bus.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\obj\Debug\netcoreapp3.1\Bus.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\obj\Debug\netcoreapp3.1\Bus.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\Bus\obj\Debug\netcoreapp3.1\Bus.genruntimeconfig.cache

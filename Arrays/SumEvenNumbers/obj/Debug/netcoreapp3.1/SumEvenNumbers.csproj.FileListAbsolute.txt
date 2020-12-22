@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.genruntimeconfig.cache

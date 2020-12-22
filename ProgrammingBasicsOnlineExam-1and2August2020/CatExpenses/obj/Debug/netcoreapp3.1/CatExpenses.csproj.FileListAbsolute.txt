@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\bin\Debug\netcoreapp3.1\CatExpenses.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\bin\Debug\netcoreapp3.1\CatExpenses.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\bin\Debug\netcoreapp3.1\CatExpenses.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\bin\Debug\netcoreapp3.1\CatExpenses.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\bin\Debug\netcoreapp3.1\CatExpenses.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\bin\Debug\netcoreapp3.1\CatExpenses.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\obj\Debug\netcoreapp3.1\CatExpenses.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\obj\Debug\netcoreapp3.1\CatExpenses.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\obj\Debug\netcoreapp3.1\CatExpenses.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\obj\Debug\netcoreapp3.1\CatExpenses.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\obj\Debug\netcoreapp3.1\CatExpenses.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\obj\Debug\netcoreapp3.1\CatExpenses.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatExpenses\obj\Debug\netcoreapp3.1\CatExpenses.genruntimeconfig.cache

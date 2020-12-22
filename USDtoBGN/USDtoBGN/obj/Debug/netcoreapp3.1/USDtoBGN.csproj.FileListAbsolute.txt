@@ -1,0 +1,13 @@
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.exe
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.deps.json
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.json
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.runtimeconfig.dev.json
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\bin\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.csprojAssemblyReference.cache
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.AssemblyInfo.cs
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.dll
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.pdb
+C:\Users\djano\source\repos\USDtoBGN\USDtoBGN\obj\Debug\netcoreapp3.1\USDtoBGN.genruntimeconfig.cache

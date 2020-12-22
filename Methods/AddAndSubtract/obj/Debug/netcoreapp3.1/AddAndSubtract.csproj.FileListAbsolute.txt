@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.genruntimeconfig.cache

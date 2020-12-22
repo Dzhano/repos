@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\bin\Debug\netcoreapp3.1\CruiseShip.exe
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\bin\Debug\netcoreapp3.1\CruiseShip.deps.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\bin\Debug\netcoreapp3.1\CruiseShip.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\bin\Debug\netcoreapp3.1\CruiseShip.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\bin\Debug\netcoreapp3.1\CruiseShip.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\bin\Debug\netcoreapp3.1\CruiseShip.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\obj\Debug\netcoreapp3.1\CruiseShip.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\obj\Debug\netcoreapp3.1\CruiseShip.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\obj\Debug\netcoreapp3.1\CruiseShip.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\obj\Debug\netcoreapp3.1\CruiseShip.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\obj\Debug\netcoreapp3.1\CruiseShip.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseShip\obj\Debug\netcoreapp3.1\CruiseShip.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TradeCommissions/1.0.0": {
+        "runtime": {
+          "TradeCommissions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TradeCommissions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

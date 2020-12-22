@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.exe
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.deps.json
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\bin\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\TrainTheTrainers\obj\Debug\netcoreapp3.1\TrainTheTrainers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\obj\Debug\netcoreapp3.1\Snowwhite.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\obj\Debug\netcoreapp3.1\Snowwhite.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\obj\Debug\netcoreapp3.1\Snowwhite.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\obj\Debug\netcoreapp3.1\Snowwhite.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\bin\Debug\netcoreapp3.1\Snowwhite.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\bin\Debug\netcoreapp3.1\Snowwhite.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\bin\Debug\netcoreapp3.1\Snowwhite.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\bin\Debug\netcoreapp3.1\Snowwhite.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\bin\Debug\netcoreapp3.1\Snowwhite.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\bin\Debug\netcoreapp3.1\Snowwhite.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\obj\Debug\netcoreapp3.1\Snowwhite.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\obj\Debug\netcoreapp3.1\Snowwhite.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Snowwhite\obj\Debug\netcoreapp3.1\Snowwhite.genruntimeconfig.cache

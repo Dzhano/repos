@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\bin\Debug\netcoreapp3.1\StarEnigma.exe
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\bin\Debug\netcoreapp3.1\StarEnigma.deps.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\bin\Debug\netcoreapp3.1\StarEnigma.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\bin\Debug\netcoreapp3.1\StarEnigma.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\bin\Debug\netcoreapp3.1\StarEnigma.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\bin\Debug\netcoreapp3.1\StarEnigma.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\obj\Debug\netcoreapp3.1\StarEnigma.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\obj\Debug\netcoreapp3.1\StarEnigma.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\obj\Debug\netcoreapp3.1\StarEnigma.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\obj\Debug\netcoreapp3.1\StarEnigma.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\obj\Debug\netcoreapp3.1\StarEnigma.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\obj\Debug\netcoreapp3.1\StarEnigma.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\StarEnigma\obj\Debug\netcoreapp3.1\StarEnigma.genruntimeconfig.cache

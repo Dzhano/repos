@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.csprojAssemblyReference.cache

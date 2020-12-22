@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\bin\Debug\netcoreapp3.1\03.HeartDelivery.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExam-29February2020Group2\03.HeartDelivery\obj\Debug\netcoreapp3.1\03.HeartDelivery.genruntimeconfig.cache

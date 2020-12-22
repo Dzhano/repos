@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\ReverseArrayOfStrings.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\ReverseArrayOfStrings.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\ReverseArrayOfStrings.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\ReverseArrayOfStrings.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\ReverseArrayOfStrings.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\ReverseArrayOfStrings.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\ReverseArrayOfStrings.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\ReverseArrayOfStrings.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\ReverseArrayOfStrings.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\ReverseArrayOfStrings.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\ReverseArrayOfStrings.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\bin\Debug\netcoreapp3.1\BitDestroyer.exe
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\bin\Debug\netcoreapp3.1\BitDestroyer.deps.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\bin\Debug\netcoreapp3.1\BitDestroyer.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\bin\Debug\netcoreapp3.1\BitDestroyer.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\bin\Debug\netcoreapp3.1\BitDestroyer.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\bin\Debug\netcoreapp3.1\BitDestroyer.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\obj\Debug\netcoreapp3.1\BitDestroyer.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\obj\Debug\netcoreapp3.1\BitDestroyer.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\obj\Debug\netcoreapp3.1\BitDestroyer.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\obj\Debug\netcoreapp3.1\BitDestroyer.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\obj\Debug\netcoreapp3.1\BitDestroyer.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\obj\Debug\netcoreapp3.1\BitDestroyer.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitDestroyer\obj\Debug\netcoreapp3.1\BitDestroyer.genruntimeconfig.cache

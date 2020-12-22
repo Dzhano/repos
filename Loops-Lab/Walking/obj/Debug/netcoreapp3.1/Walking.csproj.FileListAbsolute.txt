@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\bin\Debug\netcoreapp3.1\Walking.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\bin\Debug\netcoreapp3.1\Walking.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\bin\Debug\netcoreapp3.1\Walking.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\bin\Debug\netcoreapp3.1\Walking.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\obj\Debug\netcoreapp3.1\Walking.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\obj\Debug\netcoreapp3.1\Walking.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\obj\Debug\netcoreapp3.1\Walking.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Walking\obj\Debug\netcoreapp3.1\Walking.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.genruntimeconfig.cache

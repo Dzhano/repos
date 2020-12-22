@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\bin\Debug\netcoreapp3.1\CarRace.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\bin\Debug\netcoreapp3.1\CarRace.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\bin\Debug\netcoreapp3.1\CarRace.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\bin\Debug\netcoreapp3.1\CarRace.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\bin\Debug\netcoreapp3.1\CarRace.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\bin\Debug\netcoreapp3.1\CarRace.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\obj\Debug\netcoreapp3.1\CarRace.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\obj\Debug\netcoreapp3.1\CarRace.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\obj\Debug\netcoreapp3.1\CarRace.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\obj\Debug\netcoreapp3.1\CarRace.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\obj\Debug\netcoreapp3.1\CarRace.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\obj\Debug\netcoreapp3.1\CarRace.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\CarRace\obj\Debug\netcoreapp3.1\CarRace.genruntimeconfig.cache

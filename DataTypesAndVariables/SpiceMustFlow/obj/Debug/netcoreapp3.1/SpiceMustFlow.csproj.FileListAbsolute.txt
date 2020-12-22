@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\bin\Debug\netcoreapp3.1\SpiceMustFlow.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\SpiceMustFlow\obj\Debug\netcoreapp3.1\SpiceMustFlow.genruntimeconfig.cache

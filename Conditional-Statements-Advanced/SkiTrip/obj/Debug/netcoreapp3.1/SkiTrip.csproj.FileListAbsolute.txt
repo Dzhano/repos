@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\bin\Debug\netcoreapp3.1\SkiTrip.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\SkiTrip\obj\Debug\netcoreapp3.1\SkiTrip.genruntimeconfig.cache

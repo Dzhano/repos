@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\bin\Debug\netcoreapp3.1\TradeCommissions.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\TradeCommissions\obj\Debug\netcoreapp3.1\TradeCommissions.genruntimeconfig.cache

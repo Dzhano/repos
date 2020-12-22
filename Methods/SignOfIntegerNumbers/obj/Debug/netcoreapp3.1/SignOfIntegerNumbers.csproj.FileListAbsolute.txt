@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\SignOfIntegerNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\SignOfIntegerNumbers.genruntimeconfig.cache

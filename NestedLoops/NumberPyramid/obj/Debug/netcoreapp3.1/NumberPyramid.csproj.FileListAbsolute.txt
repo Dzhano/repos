@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.exe
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.deps.json
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\bin\Debug\netcoreapp3.1\NumberPyramid.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\NumberPyramid\obj\Debug\netcoreapp3.1\NumberPyramid.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.genruntimeconfig.cache

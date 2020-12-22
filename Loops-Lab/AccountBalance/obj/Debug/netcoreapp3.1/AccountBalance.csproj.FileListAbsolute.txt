@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.genruntimeconfig.cache

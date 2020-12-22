@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.genruntimeconfig.cache

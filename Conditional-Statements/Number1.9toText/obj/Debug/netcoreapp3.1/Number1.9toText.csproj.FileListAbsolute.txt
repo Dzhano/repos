@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\bin\Debug\netcoreapp3.1\Number1.9toText.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\bin\Debug\netcoreapp3.1\Number1.9toText.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\bin\Debug\netcoreapp3.1\Number1.9toText.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\bin\Debug\netcoreapp3.1\Number1.9toText.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\bin\Debug\netcoreapp3.1\Number1.9toText.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\bin\Debug\netcoreapp3.1\Number1.9toText.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\obj\Debug\netcoreapp3.1\Number1.9toText.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\obj\Debug\netcoreapp3.1\Number1.9toText.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\obj\Debug\netcoreapp3.1\Number1.9toText.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\obj\Debug\netcoreapp3.1\Number1.9toText.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\obj\Debug\netcoreapp3.1\Number1.9toText.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Number1.9toText\obj\Debug\netcoreapp3.1\Number1.9toText.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.csprojAssemblyReference.cache

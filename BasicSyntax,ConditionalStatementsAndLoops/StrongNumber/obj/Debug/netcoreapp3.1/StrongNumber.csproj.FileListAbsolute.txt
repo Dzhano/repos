@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csprojAssemblyReference.cache

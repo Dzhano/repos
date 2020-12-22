@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\bin\Debug\netcoreapp3.1\Scholarship.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\Scholarship\obj\Debug\netcoreapp3.1\Scholarship.genruntimeconfig.cache

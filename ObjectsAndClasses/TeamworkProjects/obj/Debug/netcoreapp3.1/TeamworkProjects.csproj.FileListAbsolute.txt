@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.exe
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.deps.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\bin\Debug\netcoreapp3.1\TeamworkProjects.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.dll
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.pdb
+D:\Джано\SoftUni\C#\source\repos\ObjectsAndClasses\TeamworkProjects\obj\Debug\netcoreapp3.1\TeamworkProjects.genruntimeconfig.cache

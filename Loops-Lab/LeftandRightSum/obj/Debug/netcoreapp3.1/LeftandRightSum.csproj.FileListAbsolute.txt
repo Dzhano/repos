@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\bin\Debug\netcoreapp3.1\LeftandRightSum.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\bin\Debug\netcoreapp3.1\LeftandRightSum.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\bin\Debug\netcoreapp3.1\LeftandRightSum.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\bin\Debug\netcoreapp3.1\LeftandRightSum.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\bin\Debug\netcoreapp3.1\LeftandRightSum.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\bin\Debug\netcoreapp3.1\LeftandRightSum.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\obj\Debug\netcoreapp3.1\LeftandRightSum.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\obj\Debug\netcoreapp3.1\LeftandRightSum.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\obj\Debug\netcoreapp3.1\LeftandRightSum.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\obj\Debug\netcoreapp3.1\LeftandRightSum.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\obj\Debug\netcoreapp3.1\LeftandRightSum.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\obj\Debug\netcoreapp3.1\LeftandRightSum.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\LeftandRightSum\obj\Debug\netcoreapp3.1\LeftandRightSum.genruntimeconfig.cache

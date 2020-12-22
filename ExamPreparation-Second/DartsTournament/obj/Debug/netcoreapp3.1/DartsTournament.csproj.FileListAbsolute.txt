@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\bin\Debug\netcoreapp3.1\DartsTournament.exe
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\bin\Debug\netcoreapp3.1\DartsTournament.deps.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\bin\Debug\netcoreapp3.1\DartsTournament.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\bin\Debug\netcoreapp3.1\DartsTournament.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\bin\Debug\netcoreapp3.1\DartsTournament.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\bin\Debug\netcoreapp3.1\DartsTournament.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\obj\Debug\netcoreapp3.1\DartsTournament.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\obj\Debug\netcoreapp3.1\DartsTournament.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\obj\Debug\netcoreapp3.1\DartsTournament.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\obj\Debug\netcoreapp3.1\DartsTournament.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\obj\Debug\netcoreapp3.1\DartsTournament.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\obj\Debug\netcoreapp3.1\DartsTournament.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\DartsTournament\obj\Debug\netcoreapp3.1\DartsTournament.genruntimeconfig.cache

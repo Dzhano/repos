@@ -1,0 +1,37 @@
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+D:\VS projects\Phonebook\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+D:\VS projects\Phonebook\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+D:\basic Web\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+D:\basic Web\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+D:\Джано\SoftUni\C#\source\repos\Skeleton\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.genruntimeconfig.cache

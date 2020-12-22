@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumbersInReverseOrder.genruntimeconfig.cache

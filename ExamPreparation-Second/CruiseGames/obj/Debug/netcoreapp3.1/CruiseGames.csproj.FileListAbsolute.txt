@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\bin\Debug\netcoreapp3.1\CruiseGames.exe
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\bin\Debug\netcoreapp3.1\CruiseGames.deps.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\bin\Debug\netcoreapp3.1\CruiseGames.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\bin\Debug\netcoreapp3.1\CruiseGames.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\bin\Debug\netcoreapp3.1\CruiseGames.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\bin\Debug\netcoreapp3.1\CruiseGames.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\obj\Debug\netcoreapp3.1\CruiseGames.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\obj\Debug\netcoreapp3.1\CruiseGames.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\obj\Debug\netcoreapp3.1\CruiseGames.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\obj\Debug\netcoreapp3.1\CruiseGames.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\obj\Debug\netcoreapp3.1\CruiseGames.dll
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\obj\Debug\netcoreapp3.1\CruiseGames.pdb
+D:\Джано\SoftUni\source\repos\ExamPreparation-Second\CruiseGames\obj\Debug\netcoreapp3.1\CruiseGames.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.csprojAssemblyReference.cache
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.AssemblyInfo.cs
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.exe
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.deps.json
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.runtimeconfig.json
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.runtimeconfig.dev.json
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.dll
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\bin\Debug\netcoreapp3.1\InchesToCentimeters.pdb
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.dll
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.pdb
+C:\Users\djano\source\repos\InchesToCentimeters\InchesToCentimeters\obj\Debug\netcoreapp3.1\InchesToCentimeters.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.genruntimeconfig.cache

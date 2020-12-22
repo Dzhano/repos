@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\obj\Debug\netcoreapp3.1\Salary.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Salary\obj\Debug\netcoreapp3.1\Salary.genruntimeconfig.cache

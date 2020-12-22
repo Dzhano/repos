@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.genruntimeconfig.cache

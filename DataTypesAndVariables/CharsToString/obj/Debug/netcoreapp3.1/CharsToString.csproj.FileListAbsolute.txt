@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.exe
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.deps.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\bin\Debug\netcoreapp3.1\CharsToString.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.dll
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.pdb
+D:\Джано\SoftUni\C#\source\repos\DataTypesAndVariables\CharsToString\obj\Debug\netcoreapp3.1\CharsToString.genruntimeconfig.cache

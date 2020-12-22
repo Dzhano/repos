@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\bin\Debug\netcoreapp3.1\Messages.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\obj\Debug\netcoreapp3.1\Messages.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\Messages\obj\Debug\netcoreapp3.1\Messages.csprojAssemblyReference.cache

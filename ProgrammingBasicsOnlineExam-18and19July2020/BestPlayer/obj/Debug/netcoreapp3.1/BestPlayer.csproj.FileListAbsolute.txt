@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-18and19July2020\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.genruntimeconfig.cache

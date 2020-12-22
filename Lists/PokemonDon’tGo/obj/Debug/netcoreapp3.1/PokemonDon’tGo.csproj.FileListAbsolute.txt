@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\bin\Debug\netcoreapp3.1\PokemonDon’tGo.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\bin\Debug\netcoreapp3.1\PokemonDon’tGo.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\bin\Debug\netcoreapp3.1\PokemonDon’tGo.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\bin\Debug\netcoreapp3.1\PokemonDon’tGo.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\bin\Debug\netcoreapp3.1\PokemonDon’tGo.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\bin\Debug\netcoreapp3.1\PokemonDon’tGo.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\obj\Debug\netcoreapp3.1\PokemonDon’tGo.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\obj\Debug\netcoreapp3.1\PokemonDon’tGo.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\obj\Debug\netcoreapp3.1\PokemonDon’tGo.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\obj\Debug\netcoreapp3.1\PokemonDon’tGo.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\obj\Debug\netcoreapp3.1\PokemonDon’tGo.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\obj\Debug\netcoreapp3.1\PokemonDon’tGo.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\PokemonDon’tGo\obj\Debug\netcoreapp3.1\PokemonDon’tGo.genruntimeconfig.cache

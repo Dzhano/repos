@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\bin\Debug\netcoreapp3.1\Tri-bitSwitch.exe
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\bin\Debug\netcoreapp3.1\Tri-bitSwitch.deps.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\bin\Debug\netcoreapp3.1\Tri-bitSwitch.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\bin\Debug\netcoreapp3.1\Tri-bitSwitch.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\bin\Debug\netcoreapp3.1\Tri-bitSwitch.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\bin\Debug\netcoreapp3.1\Tri-bitSwitch.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\obj\Debug\netcoreapp3.1\Tri-bitSwitch.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\obj\Debug\netcoreapp3.1\Tri-bitSwitch.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\obj\Debug\netcoreapp3.1\Tri-bitSwitch.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\obj\Debug\netcoreapp3.1\Tri-bitSwitch.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\obj\Debug\netcoreapp3.1\Tri-bitSwitch.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\obj\Debug\netcoreapp3.1\Tri-bitSwitch.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\Tri-bitSwitch\obj\Debug\netcoreapp3.1\Tri-bitSwitch.csprojAssemblyReference.cache

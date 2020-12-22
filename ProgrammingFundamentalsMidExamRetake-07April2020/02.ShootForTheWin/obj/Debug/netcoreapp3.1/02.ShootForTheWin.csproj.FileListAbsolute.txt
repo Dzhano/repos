@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\bin\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsMidExamRetake-07April2020\02.ShootForTheWin\obj\Debug\netcoreapp3.1\02.ShootForTheWin.genruntimeconfig.cache

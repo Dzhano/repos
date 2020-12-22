@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.exe
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.deps.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\bin\Debug\netcoreapp3.1\BitAtPosition1.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.dll
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.pdb
+D:\Джано\SoftUni\C#\source\repos\LabBitwiseOperations\BitAtPosition1\obj\Debug\netcoreapp3.1\BitAtPosition1.genruntimeconfig.cache

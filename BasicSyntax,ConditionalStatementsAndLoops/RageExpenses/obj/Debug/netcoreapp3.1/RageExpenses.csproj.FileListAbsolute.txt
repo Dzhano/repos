@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\bin\Debug\netcoreapp3.1\RageExpenses.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\RageExpenses\obj\Debug\netcoreapp3.1\RageExpenses.genruntimeconfig.cache

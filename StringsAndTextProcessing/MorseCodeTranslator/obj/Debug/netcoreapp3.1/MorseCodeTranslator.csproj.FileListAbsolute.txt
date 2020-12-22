@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\bin\Debug\netcoreapp3.1\MorseCodeTranslator.exe
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\bin\Debug\netcoreapp3.1\MorseCodeTranslator.deps.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\bin\Debug\netcoreapp3.1\MorseCodeTranslator.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\bin\Debug\netcoreapp3.1\MorseCodeTranslator.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\bin\Debug\netcoreapp3.1\MorseCodeTranslator.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\bin\Debug\netcoreapp3.1\MorseCodeTranslator.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\obj\Debug\netcoreapp3.1\MorseCodeTranslator.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\obj\Debug\netcoreapp3.1\MorseCodeTranslator.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\obj\Debug\netcoreapp3.1\MorseCodeTranslator.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\obj\Debug\netcoreapp3.1\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\obj\Debug\netcoreapp3.1\MorseCodeTranslator.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\obj\Debug\netcoreapp3.1\MorseCodeTranslator.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\MorseCodeTranslator\obj\Debug\netcoreapp3.1\MorseCodeTranslator.genruntimeconfig.cache

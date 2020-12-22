@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\bin\Debug\netcoreapp3.1\Judge.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\bin\Debug\netcoreapp3.1\Judge.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\bin\Debug\netcoreapp3.1\Judge.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\bin\Debug\netcoreapp3.1\Judge.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\bin\Debug\netcoreapp3.1\Judge.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\bin\Debug\netcoreapp3.1\Judge.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\obj\Debug\netcoreapp3.1\Judge.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\obj\Debug\netcoreapp3.1\Judge.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\obj\Debug\netcoreapp3.1\Judge.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\obj\Debug\netcoreapp3.1\Judge.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\obj\Debug\netcoreapp3.1\Judge.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\obj\Debug\netcoreapp3.1\Judge.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\Judge\obj\Debug\netcoreapp3.1\Judge.genruntimeconfig.cache

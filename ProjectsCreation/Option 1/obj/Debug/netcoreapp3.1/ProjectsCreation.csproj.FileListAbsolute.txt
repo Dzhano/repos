@@ -1,0 +1,13 @@
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.exe
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.deps.json
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.json
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.runtimeconfig.dev.json
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.dll
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\bin\Debug\netcoreapp3.1\ProjectsCreation.pdb
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csprojAssemblyReference.cache
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.AssemblyInfo.cs
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.dll
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.pdb
+C:\Users\djano\source\repos\ProjectsCreation\ProjectsCreation\obj\Debug\netcoreapp3.1\ProjectsCreation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.exe
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.deps.json
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+D:\Джано\SoftUni\C#\source\repos\Methods\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.genruntimeconfig.cache

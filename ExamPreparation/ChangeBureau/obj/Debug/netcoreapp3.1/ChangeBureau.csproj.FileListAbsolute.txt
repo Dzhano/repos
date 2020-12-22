@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.exe
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\bin\Debug\netcoreapp3.1\ChangeBureau.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.dll
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.pdb
+D:\Джано\SoftUni\C#\source\repos\ExamPreparation\ChangeBureau\obj\Debug\netcoreapp3.1\ChangeBureau.genruntimeconfig.cache

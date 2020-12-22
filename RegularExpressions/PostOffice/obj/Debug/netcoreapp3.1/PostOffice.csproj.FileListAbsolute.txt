@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.exe
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.deps.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\bin\Debug\netcoreapp3.1\PostOffice.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\PostOffice\obj\Debug\netcoreapp3.1\PostOffice.genruntimeconfig.cache

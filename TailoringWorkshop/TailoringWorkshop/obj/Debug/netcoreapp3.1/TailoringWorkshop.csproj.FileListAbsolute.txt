@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp3.1\TailoringWorkshop.exe
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp3.1\TailoringWorkshop.deps.json
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp3.1\TailoringWorkshop.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp3.1\TailoringWorkshop.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp3.1\TailoringWorkshop.dll
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\bin\Debug\netcoreapp3.1\TailoringWorkshop.pdb
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp3.1\TailoringWorkshop.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp3.1\TailoringWorkshop.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp3.1\TailoringWorkshop.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp3.1\TailoringWorkshop.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp3.1\TailoringWorkshop.dll
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp3.1\TailoringWorkshop.pdb
+D:\Джано\SoftUni\source\repos\TailoringWorkshop\TailoringWorkshop\obj\Debug\netcoreapp3.1\TailoringWorkshop.genruntimeconfig.cache

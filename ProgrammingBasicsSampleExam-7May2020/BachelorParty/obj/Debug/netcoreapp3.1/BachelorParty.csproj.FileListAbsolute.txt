@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.exe
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.deps.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.dll
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.pdb
+D:\Джано\SoftUni\source\repos\ProgrammingBasicsSampleExam-7May2020\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.genruntimeconfig.cache

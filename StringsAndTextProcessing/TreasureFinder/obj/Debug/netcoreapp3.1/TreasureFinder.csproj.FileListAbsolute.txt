@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.exe
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.deps.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.genruntimeconfig.cache

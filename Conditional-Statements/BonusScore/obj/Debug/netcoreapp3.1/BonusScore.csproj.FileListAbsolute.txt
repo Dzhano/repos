@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\bin\Debug\netcoreapp3.1\BonusScore.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements\BonusScore\obj\Debug\netcoreapp3.1\BonusScore.genruntimeconfig.cache

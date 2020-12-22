@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.exe
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.deps.json
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.dll
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.pdb
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.csprojAssemblyReference.cache

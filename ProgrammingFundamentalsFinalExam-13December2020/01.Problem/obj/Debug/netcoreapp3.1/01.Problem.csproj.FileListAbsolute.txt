@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingFundamentalsFinalExam-13December2020\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.genruntimeconfig.cache

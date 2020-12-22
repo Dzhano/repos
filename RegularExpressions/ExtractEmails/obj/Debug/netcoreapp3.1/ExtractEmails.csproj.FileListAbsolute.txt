@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\bin\Debug\netcoreapp3.1\ExtractEmails.exe
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\bin\Debug\netcoreapp3.1\ExtractEmails.deps.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\bin\Debug\netcoreapp3.1\ExtractEmails.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\bin\Debug\netcoreapp3.1\ExtractEmails.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\bin\Debug\netcoreapp3.1\ExtractEmails.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\bin\Debug\netcoreapp3.1\ExtractEmails.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\obj\Debug\netcoreapp3.1\ExtractEmails.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\obj\Debug\netcoreapp3.1\ExtractEmails.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\obj\Debug\netcoreapp3.1\ExtractEmails.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\obj\Debug\netcoreapp3.1\ExtractEmails.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\obj\Debug\netcoreapp3.1\ExtractEmails.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\obj\Debug\netcoreapp3.1\ExtractEmails.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\ExtractEmails\obj\Debug\netcoreapp3.1\ExtractEmails.genruntimeconfig.cache

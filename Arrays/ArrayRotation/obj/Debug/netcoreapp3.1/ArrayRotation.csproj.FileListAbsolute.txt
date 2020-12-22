@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\bin\Debug\netcoreapp3.1\ArrayRotation.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\ArrayRotation\obj\Debug\netcoreapp3.1\ArrayRotation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.exe
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.deps.json
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\bin\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.dll
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.pdb
+D:\Джано\SoftUni\source\repos\NestedLoops\SumPrimeNonPrime\obj\Debug\netcoreapp3.1\SumPrimeNonPrime.genruntimeconfig.cache

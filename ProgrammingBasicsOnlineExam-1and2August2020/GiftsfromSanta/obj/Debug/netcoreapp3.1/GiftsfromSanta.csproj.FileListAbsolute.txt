@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\bin\Debug\netcoreapp3.1\GiftsfromSanta.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\bin\Debug\netcoreapp3.1\GiftsfromSanta.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\bin\Debug\netcoreapp3.1\GiftsfromSanta.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\bin\Debug\netcoreapp3.1\GiftsfromSanta.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\bin\Debug\netcoreapp3.1\GiftsfromSanta.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\bin\Debug\netcoreapp3.1\GiftsfromSanta.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\obj\Debug\netcoreapp3.1\GiftsfromSanta.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\obj\Debug\netcoreapp3.1\GiftsfromSanta.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\obj\Debug\netcoreapp3.1\GiftsfromSanta.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\obj\Debug\netcoreapp3.1\GiftsfromSanta.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\obj\Debug\netcoreapp3.1\GiftsfromSanta.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\obj\Debug\netcoreapp3.1\GiftsfromSanta.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\GiftsfromSanta\obj\Debug\netcoreapp3.1\GiftsfromSanta.genruntimeconfig.cache

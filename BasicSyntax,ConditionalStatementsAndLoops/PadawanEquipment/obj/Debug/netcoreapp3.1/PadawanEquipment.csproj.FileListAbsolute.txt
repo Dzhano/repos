@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\bin\Debug\netcoreapp3.1\PadawanEquipment.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\PadawanEquipment\obj\Debug\netcoreapp3.1\PadawanEquipment.genruntimeconfig.cache

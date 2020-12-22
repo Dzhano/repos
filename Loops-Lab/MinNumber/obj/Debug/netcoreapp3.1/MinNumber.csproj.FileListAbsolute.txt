@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.exe
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.deps.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.dll
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.pdb
+D:\Джано\SoftUni\source\repos\Loops-Lab\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.genruntimeconfig.cache

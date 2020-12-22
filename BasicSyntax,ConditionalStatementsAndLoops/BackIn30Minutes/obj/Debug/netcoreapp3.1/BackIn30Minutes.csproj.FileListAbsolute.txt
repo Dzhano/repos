@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.exe
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\bin\Debug\netcoreapp3.1\BackIn30Minutes.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.dll
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicSyntax,ConditionalStatementsAndLoops\BackIn30Minutes\obj\Debug\netcoreapp3.1\BackIn30Minutes.genruntimeconfig.cache

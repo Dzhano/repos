@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.exe
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.deps.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.runtimeconfig.dev.json
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\bin\Debug\netcoreapp3.1\FruitShop.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csprojAssemblyReference.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.AssemblyInfo.cs
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.dll
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.pdb
+D:\Джано\SoftUni\source\repos\Conditional-Statements-Advanced\FruitShop\obj\Debug\netcoreapp3.1\FruitShop.genruntimeconfig.cache

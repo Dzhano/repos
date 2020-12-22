@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\bin\Debug\netcoreapp3.1\CatLife.exe
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\bin\Debug\netcoreapp3.1\CatLife.deps.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\bin\Debug\netcoreapp3.1\CatLife.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\bin\Debug\netcoreapp3.1\CatLife.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\bin\Debug\netcoreapp3.1\CatLife.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\bin\Debug\netcoreapp3.1\CatLife.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\obj\Debug\netcoreapp3.1\CatLife.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\obj\Debug\netcoreapp3.1\CatLife.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\obj\Debug\netcoreapp3.1\CatLife.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\obj\Debug\netcoreapp3.1\CatLife.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\obj\Debug\netcoreapp3.1\CatLife.dll
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\obj\Debug\netcoreapp3.1\CatLife.pdb
+D:\Джано\SoftUni\C#\source\repos\ProgrammingBasicsOnlineExam-1and2August2020\CatLife\obj\Debug\netcoreapp3.1\CatLife.genruntimeconfig.cache

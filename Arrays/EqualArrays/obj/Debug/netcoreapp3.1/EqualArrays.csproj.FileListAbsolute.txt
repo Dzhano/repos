@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.exe
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.deps.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.dll
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.pdb
+D:\Джано\SoftUni\C#\source\repos\Arrays\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.genruntimeconfig.cache

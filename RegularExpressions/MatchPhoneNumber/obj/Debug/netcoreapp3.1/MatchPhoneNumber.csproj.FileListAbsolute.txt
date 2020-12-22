@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.exe
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.deps.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.dll
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.pdb
+D:\Джано\SoftUni\C#\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.genruntimeconfig.cache

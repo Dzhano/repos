@@ -1,0 +1,13 @@
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.exe
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.deps.json
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.json
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.runtimeconfig.dev.json
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.dll
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\bin\Debug\netcoreapp3.1\RectangleArea.pdb
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.csprojAssemblyReference.cache
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.AssemblyInfo.cs
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.dll
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.pdb
+C:\Users\djano\source\repos\RectangleArea\RectangleArea\obj\Debug\netcoreapp3.1\RectangleArea.genruntimeconfig.cache

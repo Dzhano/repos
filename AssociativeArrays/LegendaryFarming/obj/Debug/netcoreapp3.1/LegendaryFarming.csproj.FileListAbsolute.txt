@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.exe
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.deps.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\bin\Debug\netcoreapp3.1\LegendaryFarming.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.dll
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.pdb
+D:\Джано\SoftUni\C#\source\repos\AssociativeArrays\LegendaryFarming\obj\Debug\netcoreapp3.1\LegendaryFarming.genruntimeconfig.cache

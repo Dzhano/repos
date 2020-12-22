@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\bin\Debug\netcoreapp3.1\Digits,LettersAndOther.exe
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\bin\Debug\netcoreapp3.1\Digits,LettersAndOther.deps.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\bin\Debug\netcoreapp3.1\Digits,LettersAndOther.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\bin\Debug\netcoreapp3.1\Digits,LettersAndOther.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\bin\Debug\netcoreapp3.1\Digits,LettersAndOther.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\bin\Debug\netcoreapp3.1\Digits,LettersAndOther.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\obj\Debug\netcoreapp3.1\Digits,LettersAndOther.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\obj\Debug\netcoreapp3.1\Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\obj\Debug\netcoreapp3.1\Digits,LettersAndOther.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\obj\Debug\netcoreapp3.1\Digits,LettersAndOther.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\obj\Debug\netcoreapp3.1\Digits,LettersAndOther.dll
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\obj\Debug\netcoreapp3.1\Digits,LettersAndOther.pdb
+D:\Джано\SoftUni\C#\source\repos\StringsAndTextProcessing\Digits,LettersAndOther\obj\Debug\netcoreapp3.1\Digits,LettersAndOther.genruntimeconfig.cache
