@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\bin\Debug\netcoreapp3.1\ReverseStrings.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\ReverseStrings\obj\Debug\netcoreapp3.1\ReverseStrings.genruntimeconfig.cache

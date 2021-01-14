@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\bin\Debug\netcoreapp3.1\MaximumAndMinimumElement.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\MaximumAndMinimumElement\obj\Debug\netcoreapp3.1\MaximumAndMinimumElement.genruntimeconfig.cache

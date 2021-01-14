@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.genruntimeconfig.cache
