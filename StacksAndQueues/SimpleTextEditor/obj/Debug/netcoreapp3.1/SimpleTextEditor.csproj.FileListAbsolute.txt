@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\bin\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SimpleTextEditor\obj\Debug\netcoreapp3.1\SimpleTextEditor.genruntimeconfig.cache

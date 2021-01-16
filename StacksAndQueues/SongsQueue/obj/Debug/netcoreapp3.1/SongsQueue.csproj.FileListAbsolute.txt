@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\bin\Debug\netcoreapp3.1\SongsQueue.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\SongsQueue\obj\Debug\netcoreapp3.1\SongsQueue.genruntimeconfig.cache

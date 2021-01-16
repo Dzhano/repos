@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\bin\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\BasicQueueOperations\obj\Debug\netcoreapp3.1\BasicQueueOperations.genruntimeconfig.cache

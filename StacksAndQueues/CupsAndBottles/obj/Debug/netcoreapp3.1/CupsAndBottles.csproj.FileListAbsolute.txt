@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\bin\Debug\netcoreapp3.1\CupsAndBottles.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\CupsAndBottles\obj\Debug\netcoreapp3.1\CupsAndBottles.genruntimeconfig.cache

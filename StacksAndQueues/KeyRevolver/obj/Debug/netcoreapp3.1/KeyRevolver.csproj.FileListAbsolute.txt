@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\bin\Debug\netcoreapp3.1\KeyRevolver.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\KeyRevolver\obj\Debug\netcoreapp3.1\KeyRevolver.genruntimeconfig.cache

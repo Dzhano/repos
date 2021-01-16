@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\bin\Debug\netcoreapp3.1\TruckTour.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\TruckTour\obj\Debug\netcoreapp3.1\TruckTour.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp3.1\FastFood.exe
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp3.1\FastFood.deps.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp3.1\FastFood.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp3.1\FastFood.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\bin\Debug\netcoreapp3.1\FastFood.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp3.1\FastFood.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp3.1\FastFood.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp3.1\FastFood.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp3.1\FastFood.dll
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp3.1\FastFood.pdb
+D:\Джано\SoftUni\C#\source\repos\StacksAndQueues\FastFood\obj\Debug\netcoreapp3.1\FastFood.genruntimeconfig.cache
