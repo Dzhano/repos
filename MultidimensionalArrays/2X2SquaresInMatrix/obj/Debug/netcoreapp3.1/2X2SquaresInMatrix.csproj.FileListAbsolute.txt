@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.exe
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.deps.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.dll
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\2X2SquaresInMatrix.pdb
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.dll
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.pdb
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\2X2SquaresInMatrix.genruntimeconfig.cache
