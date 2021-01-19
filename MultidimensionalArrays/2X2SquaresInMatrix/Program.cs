@@ -7,13 +7,13 @@ namespace _2X2SquaresInMatrix
     {
         static void Main(string[] args)
         {
-            // Runtime error
-            int[] size = Console.ReadLine().Split()
+            int[] size = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse).ToArray();
             char[,] matrix = new char[size[0], size[1]];
             for (int i = 0; i < size[0]; i++)
             {
-                char[] input = Console.ReadLine().Split().Select(char.Parse).ToArray();
+                char[] input = Console.ReadLine().Split(" ", 
+                    StringSplitOptions.RemoveEmptyEntries).Select(char.Parse).ToArray();
                 for (int j = 0; j < size[1]; j++)
                     matrix[i, j] = input[j];
             }

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.exe
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.deps.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.dll
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\bin\Debug\netcoreapp3.1\KnightGame.pdb
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.dll
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.pdb
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\KnightGame\obj\Debug\netcoreapp3.1\KnightGame.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.exe
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.deps.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.dll
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\bin\Debug\netcoreapp3.1\JaggedArrayManipulator.pdb
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.dll
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.pdb
+D:\Джано\SoftUni\C#\source\repos\MultidimensionalArrays\JaggedArrayManipulator\obj\Debug\netcoreapp3.1\JaggedArrayManipulator.genruntimeconfig.cache
