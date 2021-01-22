@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.exe
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.deps.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\bin\Debug\netcoreapp3.1\CountSameValuesInArray.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSameValuesInArray\obj\Debug\netcoreapp3.1\CountSameValuesInArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.exe
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.deps.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.genruntimeconfig.cache
