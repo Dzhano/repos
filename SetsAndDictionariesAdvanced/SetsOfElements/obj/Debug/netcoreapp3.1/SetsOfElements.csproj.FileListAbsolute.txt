@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csprojAssemblyReference.cache

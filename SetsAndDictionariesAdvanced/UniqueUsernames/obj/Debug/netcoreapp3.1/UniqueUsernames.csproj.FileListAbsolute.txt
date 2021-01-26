@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.exe
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.deps.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\bin\Debug\netcoreapp3.1\UniqueUsernames.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\UniqueUsernames\obj\Debug\netcoreapp3.1\UniqueUsernames.genruntimeconfig.cache

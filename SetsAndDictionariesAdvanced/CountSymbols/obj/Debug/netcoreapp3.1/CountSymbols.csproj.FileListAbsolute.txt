@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.exe
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.deps.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.genruntimeconfig.cache

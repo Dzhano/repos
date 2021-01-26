@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.exe
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.deps.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\bin\Debug\netcoreapp3.1\PeriodicTable.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\PeriodicTable\obj\Debug\netcoreapp3.1\PeriodicTable.genruntimeconfig.cache

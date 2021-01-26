@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.exe
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.deps.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\bin\Debug\netcoreapp3.1\Ranking.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.dll
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.pdb
+D:\Джано\SoftUni\C#\source\repos\SetsAndDictionariesAdvanced\Ranking\obj\Debug\netcoreapp3.1\Ranking.genruntimeconfig.cache
