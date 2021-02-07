@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache

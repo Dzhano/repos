@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.exe
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.deps.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\bin\Debug\netcoreapp3.1\AppliedArithmetics.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\AppliedArithmetics\obj\Debug\netcoreapp3.1\AppliedArithmetics.genruntimeconfig.cache

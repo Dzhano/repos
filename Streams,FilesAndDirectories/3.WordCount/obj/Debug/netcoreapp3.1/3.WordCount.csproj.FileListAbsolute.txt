@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.exe
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.deps.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\bin\Debug\netcoreapp3.1\3.WordCount.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\3.WordCount\obj\Debug\netcoreapp3.1\3.WordCount.genruntimeconfig.cache

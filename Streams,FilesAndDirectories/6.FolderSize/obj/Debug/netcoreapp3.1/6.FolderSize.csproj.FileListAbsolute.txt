@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\bin\Debug\netcoreapp3.1\6.FolderSize.exe
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\bin\Debug\netcoreapp3.1\6.FolderSize.deps.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\bin\Debug\netcoreapp3.1\6.FolderSize.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\bin\Debug\netcoreapp3.1\6.FolderSize.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\bin\Debug\netcoreapp3.1\6.FolderSize.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\bin\Debug\netcoreapp3.1\6.FolderSize.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\obj\Debug\netcoreapp3.1\6.FolderSize.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\obj\Debug\netcoreapp3.1\6.FolderSize.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\obj\Debug\netcoreapp3.1\6.FolderSize.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\obj\Debug\netcoreapp3.1\6.FolderSize.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\obj\Debug\netcoreapp3.1\6.FolderSize.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\obj\Debug\netcoreapp3.1\6.FolderSize.genruntimeconfig.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\6.FolderSize\obj\Debug\netcoreapp3.1\6.FolderSize.csprojAssemblyReference.cache

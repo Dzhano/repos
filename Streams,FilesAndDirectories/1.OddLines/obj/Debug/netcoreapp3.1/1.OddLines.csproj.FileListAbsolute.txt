@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.exe
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.deps.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\bin\Debug\netcoreapp3.1\1.OddLines.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\1.OddLines\obj\Debug\netcoreapp3.1\1.OddLines.genruntimeconfig.cache

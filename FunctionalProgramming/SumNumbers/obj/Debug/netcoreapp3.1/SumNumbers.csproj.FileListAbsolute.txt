@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.exe
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\bin\Debug\netcoreapp3.1\SumNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\SumNumbers\obj\Debug\netcoreapp3.1\SumNumbers.genruntimeconfig.cache

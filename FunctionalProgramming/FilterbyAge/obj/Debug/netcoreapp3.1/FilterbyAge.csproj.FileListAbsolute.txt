@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.exe
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.deps.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\bin\Debug\netcoreapp3.1\FilterbyAge.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\FilterbyAge\obj\Debug\netcoreapp3.1\FilterbyAge.genruntimeconfig.cache

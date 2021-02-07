@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.exe
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.deps.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.genruntimeconfig.cache

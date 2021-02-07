@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache

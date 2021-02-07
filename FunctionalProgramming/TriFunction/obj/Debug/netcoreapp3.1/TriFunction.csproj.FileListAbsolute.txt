@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.exe
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.deps.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.genruntimeconfig.cache

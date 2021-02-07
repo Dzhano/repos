@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.exe
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.deps.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\bin\Debug\netcoreapp3.1\ReverseAndExclude.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.dll
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.pdb
+D:\Джано\SoftUni\C#\source\repos\FunctionalProgramming\ReverseAndExclude\obj\Debug\netcoreapp3.1\ReverseAndExclude.genruntimeconfig.cache

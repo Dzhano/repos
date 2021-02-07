@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\bin\Debug\netcoreapp3.1\2.Line Numbers.exe
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\bin\Debug\netcoreapp3.1\2.Line Numbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\bin\Debug\netcoreapp3.1\2.Line Numbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\bin\Debug\netcoreapp3.1\2.Line Numbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\bin\Debug\netcoreapp3.1\2.Line Numbers.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\bin\Debug\netcoreapp3.1\2.Line Numbers.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\obj\Debug\netcoreapp3.1\2.Line Numbers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\obj\Debug\netcoreapp3.1\2.Line Numbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\obj\Debug\netcoreapp3.1\2.Line Numbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\obj\Debug\netcoreapp3.1\2.Line Numbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\obj\Debug\netcoreapp3.1\2.Line Numbers.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\obj\Debug\netcoreapp3.1\2.Line Numbers.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\2.Line Numbers\obj\Debug\netcoreapp3.1\2.Line Numbers.genruntimeconfig.cache

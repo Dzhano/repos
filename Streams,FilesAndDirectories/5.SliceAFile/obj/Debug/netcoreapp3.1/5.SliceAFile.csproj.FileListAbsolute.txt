@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\bin\Debug\netcoreapp3.1\5.SliceAFile.exe
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\bin\Debug\netcoreapp3.1\5.SliceAFile.deps.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\bin\Debug\netcoreapp3.1\5.SliceAFile.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\bin\Debug\netcoreapp3.1\5.SliceAFile.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\bin\Debug\netcoreapp3.1\5.SliceAFile.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\bin\Debug\netcoreapp3.1\5.SliceAFile.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\obj\Debug\netcoreapp3.1\5.SliceAFile.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\obj\Debug\netcoreapp3.1\5.SliceAFile.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\obj\Debug\netcoreapp3.1\5.SliceAFile.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\obj\Debug\netcoreapp3.1\5.SliceAFile.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\obj\Debug\netcoreapp3.1\5.SliceAFile.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\obj\Debug\netcoreapp3.1\5.SliceAFile.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\5.SliceAFile\obj\Debug\netcoreapp3.1\5.SliceAFile.genruntimeconfig.cache

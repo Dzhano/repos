@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.exe
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.deps.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\bin\Debug\netcoreapp3.1\EvenLines.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\EvenLines\obj\Debug\netcoreapp3.1\EvenLines.genruntimeconfig.cache

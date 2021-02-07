@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.exe
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.deps.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\bin\Debug\netcoreapp3.1\4.MergeFiles.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.dll
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.pdb
+D:\Джано\SoftUni\C#\source\repos\Streams,FilesAndDirectories\4.MergeFiles\obj\Debug\netcoreapp3.1\4.MergeFiles.genruntimeconfig.cache
