@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache

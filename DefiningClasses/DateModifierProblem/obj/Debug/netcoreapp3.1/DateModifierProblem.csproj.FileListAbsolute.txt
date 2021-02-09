@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.exe
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.deps.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\bin\Debug\netcoreapp3.1\DateModifierProblem.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DateModifierProblem\obj\Debug\netcoreapp3.1\DateModifierProblem.genruntimeconfig.cache

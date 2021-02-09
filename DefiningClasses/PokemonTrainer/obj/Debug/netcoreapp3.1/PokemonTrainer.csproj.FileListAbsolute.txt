@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.exe
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.deps.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.genruntimeconfig.cache

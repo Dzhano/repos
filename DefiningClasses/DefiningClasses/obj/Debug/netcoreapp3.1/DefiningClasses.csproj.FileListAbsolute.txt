@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.genruntimeconfig.cache

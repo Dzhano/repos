@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.exe
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.deps.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.dll
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.pdb
+D:\Джано\SoftUni\C#\source\repos\DefiningClasses\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.genruntimeconfig.cache
