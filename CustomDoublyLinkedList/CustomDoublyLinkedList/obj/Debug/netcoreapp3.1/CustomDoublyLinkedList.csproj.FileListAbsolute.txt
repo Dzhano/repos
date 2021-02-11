@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.exe
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.deps.json
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+D:\Джано\SoftUni\C#\source\repos\CustomDoublyLinkedList\CustomDoublyLinkedList\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.genruntimeconfig.cache
