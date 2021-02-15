@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache

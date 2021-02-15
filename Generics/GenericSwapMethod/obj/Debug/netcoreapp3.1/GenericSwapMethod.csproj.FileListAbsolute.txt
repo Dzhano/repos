@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\bin\Debug\netcoreapp3.1\GenericSwapMethod.exe
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\bin\Debug\netcoreapp3.1\GenericSwapMethod.deps.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\bin\Debug\netcoreapp3.1\GenericSwapMethod.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\bin\Debug\netcoreapp3.1\GenericSwapMethod.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\bin\Debug\netcoreapp3.1\GenericSwapMethod.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\bin\Debug\netcoreapp3.1\GenericSwapMethod.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\obj\Debug\netcoreapp3.1\GenericSwapMethod.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\obj\Debug\netcoreapp3.1\GenericSwapMethod.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\obj\Debug\netcoreapp3.1\GenericSwapMethod.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\obj\Debug\netcoreapp3.1\GenericSwapMethod.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\obj\Debug\netcoreapp3.1\GenericSwapMethod.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\obj\Debug\netcoreapp3.1\GenericSwapMethod.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericSwapMethod\obj\Debug\netcoreapp3.1\GenericSwapMethod.genruntimeconfig.cache

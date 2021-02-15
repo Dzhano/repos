@@ -4,16 +4,16 @@ using System.Text;
 
 namespace CustomDoublyLinkedList
 {
-    class DoublyLinkedList
+    class DoublyLinkedList<T>
     {
-        public ListNode Head { get; set; }
-        public ListNode Tail { get; set; }
+        public ListNode<T> Head { get; set; }
+        public ListNode<T> Tail { get; set; }
         private int count = 0;
 
-        public void AddFirst(int element)
+        public void AddFirst(T element)
         {
             count++;
-            ListNode newHeadNode = new ListNode(element);
+            ListNode<T> newHeadNode = new ListNode<T>(element);
             if (Head == null)
             {
                 Head = newHeadNode;
@@ -24,10 +24,10 @@ namespace CustomDoublyLinkedList
             Head.PreviousNode = newHeadNode;
             Head = newHeadNode;
         }
-        public void AddLast(int element)
+        public void AddLast(T element)
         {
             count++;
-            ListNode newTailNode = new ListNode(element);
+            ListNode<T> newTailNode = new ListNode<T>(element);
             if (Tail == null)
             {
                 Head = newTailNode;
@@ -38,48 +38,48 @@ namespace CustomDoublyLinkedList
             Tail.NextNode = newTailNode;
             Tail = newTailNode;
         }
-        public int RemoveFirst()
+        public T RemoveFirst()
         {
             if (Head == null) throw new InvalidOperationException("The list is empty");
-            ListNode headNode = Head;
+            ListNode<T> headNode = Head;
             Head = Head.NextNode;
             if (this.Head != null) Head.PreviousNode = null;
             else Tail = null;
             count--;
             return headNode.Value;
         }
-        public int RemoveLast()
+        public T RemoveLast()
         {
             if (Tail == null) throw new InvalidOperationException("The list is empty");
-            ListNode tailNode = Tail;
+            ListNode<T> tailNode = Tail;
             Tail = Tail.PreviousNode;
             if (this.Tail != null) Tail.NextNode = null;
             else Head = null;
             count--;
             return tailNode.Value;
         }
-        public void ForEach(Action<int> action)
+        public void ForEach(Action<T> action)
         {
-            ListNode listNode = Head;
+            ListNode<T> listNode = Head;
             for (int i = 0; i < count; i++)
             {
                 action(listNode.Value);
                 listNode = listNode.NextNode;
             }
         }
-        public void ForEachFromTail(Action<int> action)
+        public void ForEachFromTail(Action<T> action)
         {
-            ListNode listNode = Tail;
+            ListNode<T> listNode = Tail;
             for (int i = 0; i < count; i++)
             {
                 action(listNode.Value);
                 listNode = listNode.PreviousNode;
             }
         }
-        public int[] ToArray()
+        public T[] ToArray()
         {
             int n = 0;
-            int[] listNodeArray = new int[count];
+            T[] listNodeArray = new T[count];
             ForEach(listNode =>
             {
                 listNodeArray[n++] = listNode;

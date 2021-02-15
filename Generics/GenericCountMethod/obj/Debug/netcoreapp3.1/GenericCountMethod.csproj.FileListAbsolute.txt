@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.exe
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.deps.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\bin\Debug\netcoreapp3.1\GenericCountMethod.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericCountMethod\obj\Debug\netcoreapp3.1\GenericCountMethod.genruntimeconfig.cache

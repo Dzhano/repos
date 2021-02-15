@@ -4,14 +4,14 @@ using System.Text;
 
 namespace CustomDoublyLinkedList
 {
-    class ListNode
+    class ListNode<T>
     {
-        public ListNode(int value)
+        public ListNode(T value)
         {
             Value = value;
         }
-        public int Value { get; set; }
-        public ListNode PreviousNode { get; set; }
-        public ListNode NextNode { get; set; }
+        public T Value { get; set; }
+        public ListNode<T> PreviousNode { get; set; }
+        public ListNode<T> NextNode { get; set; }
     }
 }

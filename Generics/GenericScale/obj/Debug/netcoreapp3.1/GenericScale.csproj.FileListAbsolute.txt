@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.exe
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.deps.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\bin\Debug\netcoreapp3.1\GenericScale.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericScale\obj\Debug\netcoreapp3.1\GenericScale.genruntimeconfig.cache

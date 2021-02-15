@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.exe
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.deps.json
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.dll
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.pdb
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.dll
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.pdb
+D:\Джано\SoftUni\C#\source\repos\CustomDataStructures\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.genruntimeconfig.cache

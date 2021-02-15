@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

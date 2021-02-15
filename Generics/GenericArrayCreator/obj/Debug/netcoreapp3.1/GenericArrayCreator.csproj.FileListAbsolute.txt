@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.exe
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.deps.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.dll
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+D:\Джано\SoftUni\C#\source\repos\Generics\GenericArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.genruntimeconfig.cache

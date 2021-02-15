@@ -7,9 +7,9 @@ namespace CustomDoublyLinkedList
         static void Main(string[] args)
         {
             // For me this is more like a stack.
-            DoublyLinkedList doublyLinkedList = new DoublyLinkedList();
-            for (int i = 1; i <= 10; i++)
-                doublyLinkedList.AddFirst(i);
+            DoublyLinkedList<string> doublyLinkedList = new DoublyLinkedList<string>();
+            for (int i = 1; i <= 5; i++)
+                doublyLinkedList.AddFirst(Console.ReadLine());
             doublyLinkedList.ForEach(x => Console.WriteLine(x));
             Console.WriteLine();
             for (int i = 0; i < 3; i++)
@@ -17,7 +17,7 @@ namespace CustomDoublyLinkedList
             doublyLinkedList.ForEach(x => Console.WriteLine(x));
             Console.WriteLine();
             for (int i = -1; i > -4; i--)
-                doublyLinkedList.AddLast(i);
+                doublyLinkedList.AddLast(Console.ReadLine());
             doublyLinkedList.ForEach(x => Console.WriteLine(x));
             Console.WriteLine();
             for (int i = 0; i < 3; i++)
@@ -26,7 +26,7 @@ namespace CustomDoublyLinkedList
             Console.WriteLine();
             doublyLinkedList.ForEachFromTail(x => Console.WriteLine(x));
             Console.WriteLine();
-            int[] array = doublyLinkedList.ToArray();
+            string[] array = doublyLinkedList.ToArray();
             Console.WriteLine(string.Join(" ", array));
         }
     }
