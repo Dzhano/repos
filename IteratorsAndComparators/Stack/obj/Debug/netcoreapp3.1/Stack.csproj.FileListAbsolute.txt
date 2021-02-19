@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

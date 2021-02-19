@@ -1,66 +1,70 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using System.Collections.Generic;
 
-namespace PartyReservationFilterModule
+namespace PartyReservationFilterFinal
 {
     class Program
     {
         static void Main(string[] args)
         {
-            List<string> guests = Console.ReadLine().Split().ToList();
-            HashSet<Predicate<string>> filters 
-                = new HashSet<Predicate<string>>();
-            /*  The following PRFM commands are: 
-                •   "Add filter"
-                •	"Remove filter"
-                •	"Print" 
-                The possible PRFM filter types are: 
-                •	"Starts with"
-                •	"Ends with"
-                •	"Length"
-                •	"Contains" */
-            string command = string.Empty;
-            while ((command = Console.ReadLine()) != "Print")
-            {
-                string[] data = command.Split(";");
-                Predicate<string> filter = Filter(data[1], data[2]);
-                switch (data[0])
-                {
-                    case "Add filter":
-                        filters.Add(filter);
-                        break;
-                    case "Remove filter":       // Не може да изтрия филтъра.
-                        filters.Remove(filter);
-                        break;
-                }
-            }
-            foreach (string invitation in guests)
-            {
-                bool passed = true;
-                foreach (var filter in filters)
-                {
-                    if (filter(invitation)) passed = false;
-                }
-                if (passed) Console.Write(invitation + " ");
-            }
-        }
+            string[] names = Console.ReadLine()
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            var filterList = new List<string>();
 
-        static Predicate<string> Filter(string filterType, string parameter)
-        {
-            switch (filterType)
+            string filter = string.Empty;
+            while ((filter = Console.ReadLine()) != "Print")
             {
-                case "Starts with":
-                    return str => str.StartsWith(parameter);
-                case "Ends with":
-                    return str => str.EndsWith(parameter);
-                case "Length":
-                    return str => str.Length == int.Parse(parameter);
-                case "Contains":
-                    return str => str.Contains(parameter);
-                default:
-                    return null;
+                string[] filterInfo = filter
+                    .Split(";", StringSplitOptions.RemoveEmptyEntries);
+                string operation = filterInfo[0];
+
+                if (operation == "Add filter")
+                    filterList.Add($"{filterInfo[1]};{filterInfo[2]}");
+                else if (operation == "Remove filter")
+                {
+                    if (filterList.Contains($"{filterInfo[1]};{filterInfo[2]}"))
+                        filterList.Remove($"{filterInfo[1]};{filterInfo[2]}");
+                }
+
             }
+
+            Func<string, int, bool> lengthFilter = (name, length)
+                => name.Length == length;
+            Func<string, string, bool> startsFilter = (name, letter)
+                => name.StartsWith(letter);
+            Func<string, string, bool> endsFilter = (name, letter)
+                => name.EndsWith(letter);
+            Func<string, string, bool> containsFilter = (name, letter)
+                => name.Contains(letter);
+
+            foreach (var currentFilter in filterList)
+            {
+                string[] currentFilterInfo = currentFilter
+                    .Split(";", StringSplitOptions.RemoveEmptyEntries);
+
+                string action = currentFilterInfo[0];
+                string parameter = currentFilterInfo[1];
+
+                if (action == "Starts with")
+                    names = names
+                         .Where(name => !startsFilter(name, parameter))
+                         .ToArray();
+                else if (action == "Ends with")
+                    names = names
+                         .Where(name => !endsFilter(name, parameter))
+                         .ToArray();
+                else if (action == "Length")
+                    names = names
+                         .Where(name => !lengthFilter(name, int.Parse(parameter)))
+                         .ToArray();
+                else if (action == "Contains")
+                    names = names
+                         .Where(name => !containsFilter(name, parameter))
+                         .ToArray();
+            }
+
+            Console.WriteLine(string.Join(" ", names));
         }
     }
 }

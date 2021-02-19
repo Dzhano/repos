@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp3.1\Froggy.exe
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp3.1\Froggy.deps.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp3.1\Froggy.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp3.1\Froggy.dll
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\bin\Debug\netcoreapp3.1\Froggy.pdb
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp3.1\Froggy.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp3.1\Froggy.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp3.1\Froggy.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp3.1\Froggy.dll
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp3.1\Froggy.pdb
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\Froggy\obj\Debug\netcoreapp3.1\Froggy.genruntimeconfig.cache

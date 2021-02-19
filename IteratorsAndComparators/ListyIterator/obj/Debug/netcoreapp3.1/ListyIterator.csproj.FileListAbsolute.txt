@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.exe
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.deps.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.dll
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp3.1\ListyIterator.pdb
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.dll
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.pdb
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp3.1\ListyIterator.genruntimeconfig.cache

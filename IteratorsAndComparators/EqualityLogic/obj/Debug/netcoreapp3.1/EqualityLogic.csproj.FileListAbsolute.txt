@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.exe
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.deps.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.dll
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp3.1\EqualityLogic.pdb
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.dll
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.pdb
+D:\Джано\SoftUni\C#\source\repos\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp3.1\EqualityLogic.genruntimeconfig.cache
