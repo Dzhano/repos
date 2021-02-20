@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.exe
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.deps.json
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.dll
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\bin\Debug\netcoreapp3.1\02.Bee.pdb
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.dll
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.pdb
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\02.Bee\obj\Debug\netcoreapp3.1\02.Bee.genruntimeconfig.cache

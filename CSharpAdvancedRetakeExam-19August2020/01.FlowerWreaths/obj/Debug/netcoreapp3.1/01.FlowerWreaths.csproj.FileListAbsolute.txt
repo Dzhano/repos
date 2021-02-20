@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.exe
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.deps.json
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.dll
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\bin\Debug\netcoreapp3.1\01.FlowerWreaths.pdb
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.dll
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.pdb
+D:\Джано\SoftUni\C#\source\repos\CSharpAdvancedRetakeExam-19August2020\01.FlowerWreaths\obj\Debug\netcoreapp3.1\01.FlowerWreaths.genruntimeconfig.cache

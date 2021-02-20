@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+D:\Джано\SoftUni\C#\source\repos\VetClinic\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

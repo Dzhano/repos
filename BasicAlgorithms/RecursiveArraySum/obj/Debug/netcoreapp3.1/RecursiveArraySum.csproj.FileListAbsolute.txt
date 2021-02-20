@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.exe
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.dll
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\bin\Debug\netcoreapp3.1\RecursiveArraySum.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.dll
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveArraySum\obj\Debug\netcoreapp3.1\RecursiveArraySum.genruntimeconfig.cache

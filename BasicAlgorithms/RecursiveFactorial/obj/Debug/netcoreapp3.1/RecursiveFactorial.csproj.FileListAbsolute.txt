@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.exe
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.deps.json
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.dll
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\bin\Debug\netcoreapp3.1\RecursiveFactorial.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.dll
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\RecursiveFactorial\obj\Debug\netcoreapp3.1\RecursiveFactorial.genruntimeconfig.cache

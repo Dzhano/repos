@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "I.Recursion", "I.Recursion", "{91DD7D43-D379-4AD3-8A2A-B84CEC8585C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{9232A631-84F3-43C6-BA6E-1679FFD95209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{964562D8-EC70-4978-AF69-FB3B7A1768D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9232A631-84F3-43C6-BA6E-1679FFD95209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9232A631-84F3-43C6-BA6E-1679FFD95209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9232A631-84F3-43C6-BA6E-1679FFD95209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9232A631-84F3-43C6-BA6E-1679FFD95209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964562D8-EC70-4978-AF69-FB3B7A1768D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964562D8-EC70-4978-AF69-FB3B7A1768D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964562D8-EC70-4978-AF69-FB3B7A1768D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964562D8-EC70-4978-AF69-FB3B7A1768D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9232A631-84F3-43C6-BA6E-1679FFD95209} = {91DD7D43-D379-4AD3-8A2A-B84CEC8585C2}
+		{964562D8-EC70-4978-AF69-FB3B7A1768D1} = {91DD7D43-D379-4AD3-8A2A-B84CEC8585C2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2942671C-0EB1-4F09-AAF3-B8D0EE7755DD}
+	EndGlobalSection
+EndGlobal
