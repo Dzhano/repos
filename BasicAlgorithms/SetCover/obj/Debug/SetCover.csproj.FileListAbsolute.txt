@@ -1,0 +1,7 @@
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\SetCover\bin\Debug\SetCover.exe.config
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\SetCover\bin\Debug\SetCover.exe
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\SetCover\bin\Debug\SetCover.pdb
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\SetCover\obj\Debug\SetCover.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\SetCover\obj\Debug\SetCover.exe
+D:\Джано\SoftUni\C#\source\repos\BasicAlgorithms\SetCover\obj\Debug\SetCover.pdb
