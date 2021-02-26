@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.exe
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.deps.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.dll
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\bin\Debug\netcoreapp3.1\StackOfStrings.pdb
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.dll
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.pdb
+D:\Джано\SoftUni\C#\source\repos\Inheritance\StackOfStrings\obj\Debug\netcoreapp3.1\StackOfStrings.genruntimeconfig.cache

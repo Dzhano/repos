@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

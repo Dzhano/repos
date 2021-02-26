@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.exe
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.deps.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.dll
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.pdb
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.dll
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.pdb
+D:\Джано\SoftUni\C#\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.genruntimeconfig.cache

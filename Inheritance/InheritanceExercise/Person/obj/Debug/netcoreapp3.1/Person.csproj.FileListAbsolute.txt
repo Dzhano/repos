@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\Джано\SoftUni\C#\source\repos\Inheritance\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
