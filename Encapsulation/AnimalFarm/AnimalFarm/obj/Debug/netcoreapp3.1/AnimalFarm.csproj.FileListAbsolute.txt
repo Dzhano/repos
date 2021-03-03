@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache

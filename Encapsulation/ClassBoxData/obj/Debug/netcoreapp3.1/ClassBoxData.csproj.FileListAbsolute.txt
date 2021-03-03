@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache

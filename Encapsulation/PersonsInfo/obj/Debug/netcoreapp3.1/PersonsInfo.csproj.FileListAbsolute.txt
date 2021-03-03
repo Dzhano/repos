@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache

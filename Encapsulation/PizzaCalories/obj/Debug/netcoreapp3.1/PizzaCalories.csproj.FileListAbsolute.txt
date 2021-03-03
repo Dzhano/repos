@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+D:\Джано\SoftUni\C#\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache
