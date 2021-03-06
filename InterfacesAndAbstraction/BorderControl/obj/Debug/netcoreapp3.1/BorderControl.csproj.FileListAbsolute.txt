@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

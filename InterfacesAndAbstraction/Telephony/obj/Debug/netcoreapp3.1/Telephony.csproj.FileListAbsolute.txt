@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

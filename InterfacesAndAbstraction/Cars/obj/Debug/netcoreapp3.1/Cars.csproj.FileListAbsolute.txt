@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

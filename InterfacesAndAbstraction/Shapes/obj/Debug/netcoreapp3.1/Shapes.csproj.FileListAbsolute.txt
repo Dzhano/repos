@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

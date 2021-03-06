@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache

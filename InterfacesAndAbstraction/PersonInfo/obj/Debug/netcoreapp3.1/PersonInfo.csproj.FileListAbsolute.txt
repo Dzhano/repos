@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

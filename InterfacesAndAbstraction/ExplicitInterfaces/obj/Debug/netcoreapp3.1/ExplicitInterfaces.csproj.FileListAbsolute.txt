@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+D:\Джано\SoftUni\C#\source\repos\InterfacesAndAbstraction\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache
