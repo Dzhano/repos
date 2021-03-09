@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

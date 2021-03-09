@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+D:\Джано\SoftUni\C#\source\repos\Polymorphism\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache
