@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.exe
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\bin\Debug\netcoreapp3.1\SquareRoot.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\SquareRoot\obj\Debug\netcoreapp3.1\SquareRoot.genruntimeconfig.cache

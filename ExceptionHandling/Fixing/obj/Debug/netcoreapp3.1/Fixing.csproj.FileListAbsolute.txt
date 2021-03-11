@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.exe
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\bin\Debug\netcoreapp3.1\Fixing.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Fixing\obj\Debug\netcoreapp3.1\Fixing.genruntimeconfig.cache

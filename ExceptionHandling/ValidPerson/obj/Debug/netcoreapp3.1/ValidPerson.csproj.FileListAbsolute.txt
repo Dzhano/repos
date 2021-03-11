@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.exe
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\bin\Debug\netcoreapp3.1\ValidPerson.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\ValidPerson\obj\Debug\netcoreapp3.1\ValidPerson.genruntimeconfig.cache

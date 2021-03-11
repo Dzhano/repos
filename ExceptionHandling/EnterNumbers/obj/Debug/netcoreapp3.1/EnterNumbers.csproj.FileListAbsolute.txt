@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.exe
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\bin\Debug\netcoreapp3.1\EnterNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\EnterNumbers\obj\Debug\netcoreapp3.1\EnterNumbers.genruntimeconfig.cache

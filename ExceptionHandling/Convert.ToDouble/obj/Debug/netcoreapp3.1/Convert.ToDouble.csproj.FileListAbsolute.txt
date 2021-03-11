@@ -1,0 +1,12 @@
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.exe
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.deps.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\bin\Debug\netcoreapp3.1\Convert.ToDouble.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.dll
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.pdb
+D:\Джано\SoftUni\C#\source\repos\ExceptionHandling\Convert.ToDouble\obj\Debug\netcoreapp3.1\Convert.ToDouble.genruntimeconfig.cache
