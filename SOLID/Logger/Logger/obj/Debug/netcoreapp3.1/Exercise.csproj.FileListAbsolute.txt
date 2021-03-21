@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\bin\Debug\netcoreapp3.1\Exercise.exe
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\bin\Debug\netcoreapp3.1\Exercise.deps.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\bin\Debug\netcoreapp3.1\Exercise.dll
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\bin\Debug\netcoreapp3.1\Exercise.pdb
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\obj\Debug\netcoreapp3.1\Exercise.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\obj\Debug\netcoreapp3.1\Exercise.dll
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\obj\Debug\netcoreapp3.1\Exercise.pdb
+D:\Джано\SoftUni\C#\source\repos\SOLID\Logger\Logger\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache

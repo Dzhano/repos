@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.exe
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.deps.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.genruntimeconfig.cache

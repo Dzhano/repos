@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.exe
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.deps.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\bin\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.dll
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.pdb
+D:\Джано\SoftUni\C#\source\repos\SOLID\Lab-Skeleton\P02.Graphic_Editor\obj\Debug\netcoreapp3.1\P02.Graphic_Editor.genruntimeconfig.cache
