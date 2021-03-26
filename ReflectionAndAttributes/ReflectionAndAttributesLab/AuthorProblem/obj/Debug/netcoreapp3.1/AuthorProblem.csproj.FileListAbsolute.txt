@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

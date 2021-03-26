@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

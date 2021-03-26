@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.exe
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.deps.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.dll
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.pdb
+D:\Джано\SoftUni\C#\source\repos\ReflectionAndAttributes\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.1\ValidationAttributes.genruntimeconfig.cache
