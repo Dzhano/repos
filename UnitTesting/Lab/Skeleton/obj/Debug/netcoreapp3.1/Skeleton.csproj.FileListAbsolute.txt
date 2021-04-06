@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Lab\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache

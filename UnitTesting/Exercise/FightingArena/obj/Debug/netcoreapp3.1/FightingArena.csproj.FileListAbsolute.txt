@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

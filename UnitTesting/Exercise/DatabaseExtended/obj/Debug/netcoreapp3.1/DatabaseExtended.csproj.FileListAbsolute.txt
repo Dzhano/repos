@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb

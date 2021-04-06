@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\bin\Debug\netcoreapp3.1\Database.dll
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\bin\Debug\netcoreapp3.1\Database.pdb
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.dll
+D:\Джано\SoftUni\C#\source\repos\UnitTesting\Exercise\Database\obj\Debug\netcoreapp3.1\Database.pdb
