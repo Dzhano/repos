@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache

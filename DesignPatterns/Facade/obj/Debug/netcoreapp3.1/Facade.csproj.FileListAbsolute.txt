@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache

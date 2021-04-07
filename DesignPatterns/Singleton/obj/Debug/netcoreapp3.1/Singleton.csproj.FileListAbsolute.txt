@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

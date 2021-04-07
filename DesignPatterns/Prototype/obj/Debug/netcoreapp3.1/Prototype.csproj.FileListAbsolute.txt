@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+D:\Джано\SoftUni\C#\source\repos\DesignPatterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
