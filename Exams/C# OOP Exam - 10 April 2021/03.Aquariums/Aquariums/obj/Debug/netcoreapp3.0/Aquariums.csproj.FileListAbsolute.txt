@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Exam - 10 April 2021\03.Aquariums\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

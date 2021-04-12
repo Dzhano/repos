@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-16December2020\BakeryOpenning\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\bin\Debug\netcoreapp3.1\SoftUniDI_Framework.deps.json
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\bin\Debug\netcoreapp3.1\SoftUniDI_Framework.dll
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\bin\Debug\netcoreapp3.1\SoftUniDI_Framework.pdb
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\obj\Debug\netcoreapp3.1\SoftUniDI_Framework.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\obj\Debug\netcoreapp3.1\SoftUniDI_Framework.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\obj\Debug\netcoreapp3.1\SoftUniDI_Framework.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\obj\Debug\netcoreapp3.1\SoftUniDI_Framework.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\obj\Debug\netcoreapp3.1\SoftUniDI_Framework.dll
+D:\Джано\SoftUni\C#\source\repos\Workshop\SoftUniDI_Framework\SoftUniDI_Framework\obj\Debug\netcoreapp3.1\SoftUniDI_Framework.pdb

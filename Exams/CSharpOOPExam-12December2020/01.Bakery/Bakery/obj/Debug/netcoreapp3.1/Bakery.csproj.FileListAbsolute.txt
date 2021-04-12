@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpOOPExam-12December2020\01.Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

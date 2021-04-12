@@ -1,0 +1,8 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\C# OOP Retake Exam - 22 August 2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
