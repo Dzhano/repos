@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\bin\Debug\netcoreapp3.1\Re-Volt.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Re-Volt\obj\Debug\netcoreapp3.1\Re-Volt.genruntimeconfig.cache

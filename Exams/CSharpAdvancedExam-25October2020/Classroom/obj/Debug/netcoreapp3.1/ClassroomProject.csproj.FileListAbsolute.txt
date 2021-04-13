@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

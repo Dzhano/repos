@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Bombs\obj\Debug\netcoreapp3.1\Bombs.genruntimeconfig.cache

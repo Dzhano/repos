@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Джано\\SoftUni\\C#\\source\\repos\\CSharpAdvancedExam-20February2021\\The Race - skeleton\\TheRace.csproj",
+      "projectUniqueName": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\CSharpAdvancedExam-20February2021\\The Race - skeleton\\TheRace.csproj",
       "projectName": "TheRace",
-      "projectPath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\CSharpAdvancedExam-20February2021\\The Race - skeleton\\TheRace.csproj",
+      "projectPath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\CSharpAdvancedExam-20February2021\\The Race - skeleton\\TheRace.csproj",
       "packagesPath": "C:\\Users\\djano\\.nuget\\packages\\",
-      "outputPath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\CSharpAdvancedExam-20February2021\\The Race - skeleton\\obj\\",
+      "outputPath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\CSharpAdvancedExam-20February2021\\The Race - skeleton\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\djano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

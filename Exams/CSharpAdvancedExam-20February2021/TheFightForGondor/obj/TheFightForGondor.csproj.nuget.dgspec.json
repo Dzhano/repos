@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Джано\\SoftUni\\C#\\source\\repos\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\TheFightForGondor.csproj": {}
+    "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\TheFightForGondor.csproj": {}
   },
   "projects": {
-    "D:\\Джано\\SoftUni\\C#\\source\\repos\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\TheFightForGondor.csproj": {
+    "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\TheFightForGondor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Джано\\SoftUni\\C#\\source\\repos\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\TheFightForGondor.csproj",
+        "projectUniqueName": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\TheFightForGondor.csproj",
         "projectName": "TheFightForGondor",
-        "projectPath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\TheFightForGondor.csproj",
+        "projectPath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\TheFightForGondor.csproj",
         "packagesPath": "C:\\Users\\djano\\.nuget\\packages\\",
-        "outputPath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\obj\\",
+        "outputPath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\CSharpAdvancedExam-20February2021\\TheFightForGondor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\djano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

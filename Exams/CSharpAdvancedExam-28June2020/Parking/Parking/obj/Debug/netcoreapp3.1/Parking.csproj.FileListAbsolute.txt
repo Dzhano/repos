@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache

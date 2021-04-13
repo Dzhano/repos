@@ -65,6 +65,7 @@ namespace TheFightForGondor
                 }
                 if (over) break;
                 Queue<int> newplates = new Queue<int>(plate);
+                newplates.Enqueue(plate);
                 foreach (int item in plates)
                     newplates.Enqueue(item);
                 plates = newplates;

@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-22Feb2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.genruntimeconfig.cache

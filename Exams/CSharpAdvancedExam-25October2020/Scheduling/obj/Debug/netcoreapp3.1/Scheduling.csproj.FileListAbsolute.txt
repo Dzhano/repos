@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-25October2020\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.genruntimeconfig.cache

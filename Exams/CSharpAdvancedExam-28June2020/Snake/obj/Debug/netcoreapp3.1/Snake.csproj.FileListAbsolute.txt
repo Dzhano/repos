@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedExam-28June2020\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
