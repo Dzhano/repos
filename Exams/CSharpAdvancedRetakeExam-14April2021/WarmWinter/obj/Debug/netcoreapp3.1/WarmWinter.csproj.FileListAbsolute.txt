@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\bin\Debug\netcoreapp3.1\WarmWinter.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\WarmWinter\obj\Debug\netcoreapp3.1\WarmWinter.genruntimeconfig.cache

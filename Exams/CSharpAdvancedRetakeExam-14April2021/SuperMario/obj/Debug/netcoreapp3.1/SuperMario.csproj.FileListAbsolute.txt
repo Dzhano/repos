@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.genruntimeconfig.cache

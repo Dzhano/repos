@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.exe
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\CSharpAdvancedRetakeExam-14April2021\CocktailParty\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache
