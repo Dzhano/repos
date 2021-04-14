@@ -1,140 +1,127 @@
 ﻿using System;
 
-namespace _02.Super_Mario
+namespace SuperMario
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Кодът е чужд. Не успях да поправя моя...:( Дава 90/100 в Judge.
-            // Големи благодарности на Viktor Neykov.
-
+            // Кодът е чужд. Не успях да поправя моя...:(  [Даваше ми 90/100 в Judge.]
+            // Големи благодарности на Viktor Neykov. Използвах неговия и той ми даде 90/100.
+            // Този е на Диляна Николаева. Тя твърди че нейния е 100/100.
+            // Изпитът свърши, но все пак да бъда с по-хубавия код тук.
+            // Взех го от нашата Messenger група „C# Advanced“.
 
             int marioLives = int.Parse(Console.ReadLine());
-
             int n = int.Parse(Console.ReadLine());
-            char[,] matrix = new char[n, n];
 
+            char[,] matrix = new char[n, 20];
+            int playerRow = 0;
+            int playerCol = 0;
+            bool IsSaved = false;
 
-            for (int row = 0; row < n; row++)
+            for (int i = 0; i < n; i++)
             {
                 string currentRow = Console.ReadLine();
-
-                for (int col = 0; col < currentRow.Length; col++)
-                    matrix[row, col] = currentRow[col];
-            }
-            int marioRow = 0;
-            int marioCol = 0;
-
-            for (int row = 0; row < n; row++)
-            {
-                for (int col = 0; col < n; col++)
+                for (int j = 0; j < currentRow.Length; j++)
                 {
-                    if (matrix[row, col] == 'M')
+                    matrix[i, j] = currentRow[j];
+
+                    if (matrix[i, j] == 'M')
                     {
-                        marioRow = row;
-                        marioCol = col;
+                        playerRow = i;
+                        playerCol = j;
                     }
                 }
             }
 
-            while (marioLives > 0)
+
+            while (true)
             {
-                string[] command = Console.ReadLine().Split();
-
-                matrix[marioRow, marioCol] = '-';
-
-                string moveDirection = command[0].ToString().ToLower();
-
-                var spawnCoordinatesRow = int.Parse(command[1]);
-                var spawnCoordinatesCol = int.Parse(command[2]);
-
-                matrix[spawnCoordinatesRow, spawnCoordinatesCol] = 'B';
-
-                var rowToReturn = marioRow;
-                var colToReturn = marioCol;
-
-                marioRow = MoveRow(marioRow, moveDirection);
-                marioCol = MoveCol(marioCol, moveDirection);
-
-                marioLives -= 1;
                 if (marioLives <= 0)
                 {
-                    matrix[marioRow, marioCol] = 'X';
-                    Console.WriteLine($"Mario died at {marioRow};{marioCol}.");
+                    matrix[playerRow, playerCol] = 'X';
                     break;
                 }
 
-                if (!isValid(marioRow, marioCol, n, n))
-                {
-                    // Трябва да остане на предишната позиция.
+                string[] line = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                string command = line[0];
 
-                    marioRow = rowToReturn;
-                    marioCol = colToReturn;
-                    matrix[marioRow, marioCol] = 'M';
-                }
+                int bowserRow = int.Parse(line[1]);
+                int bowserCol = int.Parse(line[2]);
+                matrix[bowserRow, bowserCol] = 'B';
 
-                if (matrix[marioRow, marioCol] == 'B')
+                matrix[playerRow, playerCol] = '-';
+                marioLives--;
+
+                if (IsOut(command, playerRow, playerCol, n)) continue;
+
+                playerRow = MoveRow(command, playerRow);
+                playerCol = MoveCol(command, playerCol);
+
+                if (matrix[playerRow, playerCol] == 'B')
                 {
                     marioLives -= 2;
                     if (marioLives <= 0)
                     {
-                        matrix[marioRow, marioCol] = 'X';
-                        Console.WriteLine($"Mario died at {marioRow};{marioCol}.");
+                        matrix[playerRow, playerCol] = 'X';
                         break;
                     }
+                    else matrix[playerRow, playerCol] = '-';
                 }
-
-                if (matrix[marioRow, marioCol] == 'P')
+                else if (matrix[playerRow, playerCol] == 'P')
                 {
-                    matrix[marioRow, marioCol] = '-';
-
-                    Console.WriteLine($"Mario has successfully saved the princess! Lives left: {marioLives}");
+                    IsSaved = true;
+                    matrix[playerRow, playerCol] = '-';
                     break;
                 }
-                else
-                {
-                    matrix[marioRow, marioCol] = 'M';
-                }
 
+                matrix[playerRow, playerCol] = 'M';
             }
+
+            if (IsSaved == true) Console.WriteLine($"Mario has successfully saved the princess! Lives left: {marioLives}");
+            else Console.WriteLine($"Mario died at {playerRow};{playerCol}.");
 
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
-                {
-                    Console.Write(matrix[row, col]);
-                }
+                    Console.Write($"{matrix[row, col]}");
                 Console.WriteLine();
             }
         }
 
 
-        public static int MoveRow(int row, string movement)
+        private static int MoveCol(string command, int position)
         {
-            if (movement == "w") return row - 1;
-            if (movement == "s") return row + 1;
-
-            return row;
-
+            switch (command)
+            {
+                case "A": return --position;
+                case "D": return ++position;
+                default: return position;
+            }
         }
 
-        public static int MoveCol(int col, string movement)
+        private static int MoveRow(string command, int position)
         {
-            if (movement == "a") return col - 1;
-            if (movement == "d") return col + 1;
+            switch (command)
+            {
+                case "W": return --position;
+                case "S": return ++position;
 
-            return col;
-
+                default: return position;
+            }
         }
 
-        public static bool isValid(int row, int col, int rows, int cols)
+        private static bool IsOut(string command, int playerRow, int playerCol, int n)
         {
-            if (row < 0 || row >= rows) return false;
-            if (col < 0 || col >= cols) return false;
-
-            return true;
+            switch (command)
+            {
+                case "W": return playerRow - 1 < 0;
+                case "S": return playerRow + 1 >= n;
+                case "A": return playerCol - 1 < 0;
+                case "D": return playerCol + 1 >= n;
+                default: return false;
+            }
         }
-
     }
 }
