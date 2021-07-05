@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.deps.json
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.dll
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.pdb
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.dll
+D:\Джано\SoftUni\C#\source\repos\Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.pdb

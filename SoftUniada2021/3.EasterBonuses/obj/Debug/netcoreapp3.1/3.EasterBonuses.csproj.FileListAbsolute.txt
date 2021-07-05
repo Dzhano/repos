@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\bin\Debug\netcoreapp3.1\3.EasterBonuses.exe
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\bin\Debug\netcoreapp3.1\3.EasterBonuses.deps.json
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\bin\Debug\netcoreapp3.1\3.EasterBonuses.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\bin\Debug\netcoreapp3.1\3.EasterBonuses.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\bin\Debug\netcoreapp3.1\3.EasterBonuses.dll
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\bin\Debug\netcoreapp3.1\3.EasterBonuses.pdb
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\obj\Debug\netcoreapp3.1\3.EasterBonuses.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\obj\Debug\netcoreapp3.1\3.EasterBonuses.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\obj\Debug\netcoreapp3.1\3.EasterBonuses.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\obj\Debug\netcoreapp3.1\3.EasterBonuses.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\obj\Debug\netcoreapp3.1\3.EasterBonuses.dll
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\obj\Debug\netcoreapp3.1\3.EasterBonuses.pdb
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\3.EasterBonuses\obj\Debug\netcoreapp3.1\3.EasterBonuses.genruntimeconfig.cache

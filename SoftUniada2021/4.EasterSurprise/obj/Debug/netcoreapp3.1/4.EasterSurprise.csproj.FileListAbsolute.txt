@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\bin\Debug\netcoreapp3.1\4.EasterSurprise.exe
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\bin\Debug\netcoreapp3.1\4.EasterSurprise.deps.json
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\bin\Debug\netcoreapp3.1\4.EasterSurprise.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\bin\Debug\netcoreapp3.1\4.EasterSurprise.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\bin\Debug\netcoreapp3.1\4.EasterSurprise.dll
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\bin\Debug\netcoreapp3.1\4.EasterSurprise.pdb
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\obj\Debug\netcoreapp3.1\4.EasterSurprise.csprojAssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\obj\Debug\netcoreapp3.1\4.EasterSurprise.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\obj\Debug\netcoreapp3.1\4.EasterSurprise.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\obj\Debug\netcoreapp3.1\4.EasterSurprise.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\obj\Debug\netcoreapp3.1\4.EasterSurprise.dll
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\obj\Debug\netcoreapp3.1\4.EasterSurprise.pdb
+D:\Джано\SoftUni\C#\source\repos\SoftUniada2021\4.EasterSurprise\obj\Debug\netcoreapp3.1\4.EasterSurprise.genruntimeconfig.cache
