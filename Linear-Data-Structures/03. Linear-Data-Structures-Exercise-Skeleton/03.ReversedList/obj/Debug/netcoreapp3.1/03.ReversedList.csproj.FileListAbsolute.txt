@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.deps.json
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.dll
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.pdb
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb

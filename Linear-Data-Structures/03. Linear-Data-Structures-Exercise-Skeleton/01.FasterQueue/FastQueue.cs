@@ -6,37 +6,72 @@
 
     public class FastQueue<T> : IAbstractQueue<T>
     {
-        private Node<T> _head;
+        private Node<T> head;
+        private Node<T> tail;
+
         public int Count { get; private set; }
 
         public bool Contains(T item)
         {
-            throw new NotImplementedException();
+            var current = this.head;
+
+            while (current != null)
+            {
+                if (current.Item.Equals(item))
+                {
+                    return true;
+                }
+
+                current = current.Next;
+            }
+
+            return false;
         }
 
         public T Dequeue()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+            Count--;
+            Node<T> node = head;
+            head = head.Next;
+            return node.Item;
         }
 
         public void Enqueue(T item)
         {
-            throw new NotImplementedException();
+            Node<T> newNode = new Node<T>(item);
+            if (Count == 0)
+            {
+                head = tail = newNode;
+            }
+            tail.Next = newNode;
+            tail = newNode;
+            Count++;
         }
 
         public T Peek()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+            return head.Item;
         }
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            var current = this.head;
+            while (current != null)
+            {
+                yield return current.Item;
+                current = current.Next;
+            }
         }
 
         IEnumerator IEnumerable.GetEnumerator()
+            => this.GetEnumerator();
+
+        private void EnsureNotEmpty()
         {
-            throw new NotImplementedException();
+            if (this.Count == 0)
+                throw new InvalidOperationException();
         }
     }
 }

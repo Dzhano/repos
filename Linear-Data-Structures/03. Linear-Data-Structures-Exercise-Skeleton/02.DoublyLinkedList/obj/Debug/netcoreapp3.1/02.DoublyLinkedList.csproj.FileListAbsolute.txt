@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.deps.json
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\bin\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.dll
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\02.DoublyLinkedList\obj\Debug\netcoreapp3.1\02.DoublyLinkedList.pdb

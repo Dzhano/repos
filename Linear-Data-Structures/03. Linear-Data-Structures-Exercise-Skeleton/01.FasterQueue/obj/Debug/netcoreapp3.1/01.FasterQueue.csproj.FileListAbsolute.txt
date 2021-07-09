@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.deps.json
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.dll
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.pdb
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb

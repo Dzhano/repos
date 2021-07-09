@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.deps.json
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+D:\Джано\SoftUni\C#\source\repos\Linear-Data-Structures\03. Linear-Data-Structures-Exercise-Skeleton\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
