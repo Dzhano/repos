@@ -25,11 +25,14 @@
         {
             get
             {
-                throw new NotImplementedException();
+                ChecksIndex(index);
+                index = CalculateIndex(index);
+                return _items[index];
             }
             set
             {
-                throw new NotImplementedException();
+                ChecksIndex(index);
+                _items[index] = value;
             }
         }
 
@@ -37,42 +40,89 @@
 
         public void Add(T item)
         {
-            throw new NotImplementedException();
+            if (Count == _items.Length) Resize();
+            _items[Count++] = item;
         }
 
         public bool Contains(T item)
         {
-            throw new NotImplementedException();
+            foreach (T thing in _items) if (thing.Equals(item)) return true;
+            return false;
         }
 
         public int IndexOf(T item)
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < Count; i++) if (_items[i].Equals(item)) return CalculateIndex(i);
+            return -1;
         }
 
         public void Insert(int index, T item)
         {
-            throw new NotImplementedException();
+            ChecksIndex(index);
+            index = CalculateIndex(index) + 1;
+            ChecksIndex(index);
+            if (Count == _items.Length) Resize();
+
+            for (int i = Count; i >= index; i--)
+                _items[i] = _items[i - 1];
+
+            _items[index] = item;
+            Count++;
         }
 
         public bool Remove(T item)
         {
-            throw new NotImplementedException();
+            bool exist = Contains(item);
+            if (exist) 
+            {
+                int index = 0;
+                for(int i = 0; i < Count; i++) if (_items[i].Equals(item)) index = i;
+
+                ChecksIndex(index);
+                for (int i = index; i < Count - 1; i++)
+                {
+                    _items[i] = _items[i + 1];
+                }
+                _items[Count - 1] = default;
+                Count--;
+            }
+
+            return exist;
         }
 
         public void RemoveAt(int index)
         {
-            throw new NotImplementedException();
+            ChecksIndex(index);
+            index = CalculateIndex(index);
+            for (int i = index; i < Count - 1; i++)
+            {
+                _items[i] = _items[i + 1];
+            }
+            _items[Count - 1] = default;
+            Count--;
         }
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            for (int i = Count - 1; i >= 0; i--) yield return _items[i];
         }
 
-        IEnumerator IEnumerable.GetEnumerator()
+        IEnumerator IEnumerable.GetEnumerator() => this.GetEnumerator();
+
+        private void ChecksIndex(int index)
         {
-            throw new NotImplementedException();
+            if (index < 0 || index >= this.Count) throw new IndexOutOfRangeException();
+        }
+
+        private int CalculateIndex(int index) => Count - 1 - index;
+
+        private void Resize()
+        {
+            T[] newItems = new T[Count * 2];
+
+            Array.Copy(_items, newItems, Count);
+
+            _items = newItems;
         }
     }
 }
