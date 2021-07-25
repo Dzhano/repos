@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.deps.json
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.dll
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\bin\Debug\netstandard2.0\Tree.pdb
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.dll
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Tree\obj\Debug\netstandard2.0\Tree.pdb

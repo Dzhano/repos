@@ -1,0 +1,13 @@
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\obj\Debug\netcoreapp3.1\Tree.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\obj\Debug\netcoreapp3.1\Tree.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\bin\Debug\netcoreapp3.1\Tree.exe
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\bin\Debug\netcoreapp3.1\Tree.deps.json
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.json
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.dev.json
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\bin\Debug\netcoreapp3.1\Tree.dll
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\bin\Debug\netcoreapp3.1\Tree.pdb
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\obj\Debug\netcoreapp3.1\Tree.dll
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\obj\Debug\netcoreapp3.1\Tree.pdb
+D:\Джано\SoftUni\C#\source\repos\Trees-Representation-and-Traversal-(BFS-DFS)\04.Trees-Representation-and-Traversal-(BFS-DFS)-Skeleton\Tree\obj\Debug\netcoreapp3.1\Tree.genruntimeconfig.cache
