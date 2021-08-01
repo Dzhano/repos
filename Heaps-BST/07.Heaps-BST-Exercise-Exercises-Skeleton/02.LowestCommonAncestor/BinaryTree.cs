@@ -1,6 +1,8 @@
 ﻿namespace _02.LowestCommonAncestor
 {
     using System;
+    using System.Collections.Generic;
+    using System.Linq;
 
     public class BinaryTree<T> : IAbstractBinaryTree<T>
         where T : IComparable<T>
@@ -10,7 +12,13 @@
             BinaryTree<T> leftChild,
             BinaryTree<T> rightChild)
         {
-            throw new NotImplementedException();
+            Value = value;
+
+            LeftChild = leftChild;
+            if (LeftChild != null) LeftChild.Parent = this;
+
+            RightChild = rightChild;
+            if (RightChild != null) RightChild.Parent = this;
         }
 
         public T Value { get; set; }
@@ -23,7 +31,44 @@
 
         public T FindLowestCommonAncestor(T first, T second)
         {
-            throw new NotImplementedException();
+            IAbstractBinaryTree<T> firstTree = null;
+            firstTree = FindElement(this, first, firstTree);
+            List<T> firstAncestors = GetAncestors(firstTree);
+
+            IAbstractBinaryTree<T> secondTree = null;
+            secondTree = FindElement(this, second, secondTree);
+            List<T> secondAncestors = GetAncestors(secondTree);
+
+            return firstAncestors.Intersect(secondAncestors).ToList()[0];
+        }
+
+        private List<T> GetAncestors(IAbstractBinaryTree<T> tree)
+        {
+            List<T> ancestors = new List<T>();
+
+            while (tree != null)
+            {
+                ancestors.Add(tree.Value);
+                tree = tree.Parent;
+            }
+
+            return ancestors;
+        }
+
+        private IAbstractBinaryTree<T> FindElement(IAbstractBinaryTree<T> node, T element, IAbstractBinaryTree<T> result)
+        {
+            if (element.CompareTo(node.Value) < 0)
+            {
+                if (node.LeftChild == null) result = null;
+                else result = FindElement(node.LeftChild, element, result);
+            }
+            else if (element.CompareTo(node.Value) > 0)
+            {
+                if (node.RightChild == null) result = null;
+                else result = FindElement(node.RightChild, element, result);
+            }
+            else result = node;
+            return result;
         }
     }
 }

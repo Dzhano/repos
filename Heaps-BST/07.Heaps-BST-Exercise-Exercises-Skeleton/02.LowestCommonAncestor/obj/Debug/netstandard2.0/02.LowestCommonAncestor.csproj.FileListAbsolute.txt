@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.deps.json
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.pdb
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.pdb

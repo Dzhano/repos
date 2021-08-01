@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.deps.json
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\bin\Debug\netstandard2.0\04.BinarySearchTree.pdb
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\04.BinarySearchTree\obj\Debug\netstandard2.0\04.BinarySearchTree.pdb

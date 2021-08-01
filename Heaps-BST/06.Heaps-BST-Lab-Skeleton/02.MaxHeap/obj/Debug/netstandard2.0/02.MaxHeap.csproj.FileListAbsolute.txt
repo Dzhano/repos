@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.deps.json
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.pdb
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\06.Heaps-BST-Lab-Skeleton\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.pdb

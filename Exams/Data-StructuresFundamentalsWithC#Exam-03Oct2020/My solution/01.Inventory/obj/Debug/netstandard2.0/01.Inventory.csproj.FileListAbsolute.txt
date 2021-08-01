@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.pdb

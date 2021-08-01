@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.pdb

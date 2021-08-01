@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oDmNW49CE5dCG6r7oLDw9qyGZJJeX1vgZcXe+qeg9qNocFFGegBRQXZDI/Ux8oZWfc9QfKvzqsgKKyaWH0YfxA==",
+  "success": true,
+  "projectFilePath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\Data-StructuresFundamentalsWithC#Exam-03Oct2020\\02.LegionSystem\\02.LegionSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

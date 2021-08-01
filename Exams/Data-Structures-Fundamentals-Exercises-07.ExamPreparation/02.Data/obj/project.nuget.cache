@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7WWVggTUSQIZm3r9/5MF6k8HsVoHK7TJPoHwC9b/8VNMbOk87PhP0m5SolReD7fD9IVb+5Z82u/mnBEnEP+ug==",
+  "success": true,
+  "projectFilePath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\\02.Data\\02.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9FIPDaVm20XiX0SRTbSD+prcw+vuDjowDVoCtoHlFL5ftgaF9zgRZSKuOKZYoUL3/Rhz5BdYmhGty+s9xvE/g==",
+  "success": true,
+  "projectFilePath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Heaps-BST\\07.Heaps-BST-Exercise-Exercises-Skeleton\\01.BSTOperations\\01.BSTOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -12,9 +12,11 @@ namespace _01.BinaryTree.Tests
         public void InitializeBinaryTree()
         {
             this._tree = new BinaryTree<int>(17,
-                new BinaryTree<int>(9, new BinaryTree<int>(3, null, null),
+                new BinaryTree<int>(9,
+                        new BinaryTree<int>(3, null, null),
                         new BinaryTree<int>(11, null, null)),
-                new BinaryTree<int>(25, new BinaryTree<int>(20, null, null),
+                new BinaryTree<int>(25,
+                        new BinaryTree<int>(20, null, null),
                         new BinaryTree<int>(31, null, null))
             );
         }

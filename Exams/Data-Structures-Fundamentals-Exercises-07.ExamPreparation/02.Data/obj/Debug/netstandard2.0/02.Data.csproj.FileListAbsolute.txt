@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\bin\Debug\netstandard2.0\02.Data.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\bin\Debug\netstandard2.0\02.Data.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\bin\Debug\netstandard2.0\02.Data.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\obj\Debug\netstandard2.0\02.Data.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\obj\Debug\netstandard2.0\02.Data.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\obj\Debug\netstandard2.0\02.Data.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\obj\Debug\netstandard2.0\02.Data.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\obj\Debug\netstandard2.0\02.Data.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\02.Data\obj\Debug\netstandard2.0\02.Data.pdb

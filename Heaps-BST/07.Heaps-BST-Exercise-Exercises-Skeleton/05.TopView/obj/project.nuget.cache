@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HhWM26P/685D95VcZsxUFBrD1HjCSRf1wBQbB9lhNeZQuwEczFPZ3WAKHMIeXw6BgxnJivRVNBgHAdaCAwmPNg==",
+  "success": true,
+  "projectFilePath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Heaps-BST\\07.Heaps-BST-Exercise-Exercises-Skeleton\\05.TopView\\05.TopView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

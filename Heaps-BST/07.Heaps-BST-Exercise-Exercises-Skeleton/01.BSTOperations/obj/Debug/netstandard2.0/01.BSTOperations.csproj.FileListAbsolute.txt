@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.deps.json
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.pdb
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.pdb

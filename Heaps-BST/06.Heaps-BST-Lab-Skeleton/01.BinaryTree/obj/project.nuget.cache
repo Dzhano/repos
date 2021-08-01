@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gx5aBHeLwIERcoc/CfumEigkWu97qHY6HoeVrpfgBnds3bssrzjRmBDoY10Ae743cGTKEgtp/2lvp0Cd3L980A==",
+  "success": true,
+  "projectFilePath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Heaps-BST\\06.Heaps-BST-Lab-Skeleton\\01.BinaryTree\\01.BinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

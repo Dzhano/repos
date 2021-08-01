@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.deps.json
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.pdb
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbEHN8bGfRpStTnPzwcqllQJl79rZ17nb42knR2W8IquzLKfF1BGFCl47kOtOERIr6nN/Is3izqQJCWVJZgHoQ==",
+  "success": true,
+  "projectFilePath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Heaps-BST\\07.Heaps-BST-Exercise-Exercises-Skeleton\\04.CookiesProblem\\04.CookiesProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

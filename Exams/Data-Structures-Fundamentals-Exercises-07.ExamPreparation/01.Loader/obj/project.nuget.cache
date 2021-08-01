@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwI75jU5OXJtXGWo/HBu7YX2wSVlyCE947VGjAcHMpr0FH4V9JMtWdr46AcfWU54tsvm2qab6zs/Gk4AAOgEYg==",
+  "success": true,
+  "projectFilePath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Exams\\Data-Structures-Fundamentals-Exercises-07.ExamPreparation\\01.Loader\\01.Loader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

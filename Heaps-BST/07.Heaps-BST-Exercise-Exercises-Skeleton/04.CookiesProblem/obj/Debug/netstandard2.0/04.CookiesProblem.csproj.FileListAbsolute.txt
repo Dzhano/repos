@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.deps.json
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\bin\Debug\netstandard2.0\04.CookiesProblem.pdb
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.dll
+D:\Джано\SoftUni\C#\source\repos\Heaps-BST\07.Heaps-BST-Exercise-Exercises-Skeleton\04.CookiesProblem\obj\Debug\netstandard2.0\04.CookiesProblem.pdb

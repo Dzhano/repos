@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kiPmT9EYNgB22GfHolqFwFxc8BdWTpekzREjjBECtuZ+E8ZpH/t5TQOAGcQLdbb7iErAKfIGrt36m7hEgr+e7g==",
+  "success": true,
+  "projectFilePath": "D:\\Джано\\SoftUni\\C#\\source\\repos\\Heaps-BST\\06.Heaps-BST-Lab-Skeleton\\03.PriorityQueue\\03.PriorityQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djano\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\djano\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

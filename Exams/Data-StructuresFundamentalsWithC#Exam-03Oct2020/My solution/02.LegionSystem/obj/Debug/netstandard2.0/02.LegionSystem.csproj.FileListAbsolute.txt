@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\Data-StructuresFundamentalsWithC#Exam-03Oct2020\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.pdb

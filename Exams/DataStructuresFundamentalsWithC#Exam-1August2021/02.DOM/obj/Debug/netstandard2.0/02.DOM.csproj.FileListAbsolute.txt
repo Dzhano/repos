@@ -1,0 +1,9 @@
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\bin\Debug\netstandard2.0\02.DOM.deps.json
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\bin\Debug\netstandard2.0\02.DOM.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\bin\Debug\netstandard2.0\02.DOM.pdb
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.AssemblyReference.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfoInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfo.cs
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.CoreCompileInputs.cache
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.dll
+D:\Джано\SoftUni\C#\source\repos\Exams\DataStructuresFundamentalsWithC#Exam-1August2021\02.DOM\obj\Debug\netstandard2.0\02.DOM.pdb
